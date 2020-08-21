@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1276"/>
+  <unicode hex="00DE"/>
+  <note>
+Thorn
+</note>
+  <outline>
+    <contour>
+      <point x="74" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+      <point x="464" y="264" type="line"/>
+      <point x="494" y="264"/>
+      <point x="574" y="252"/>
+      <point x="616" y="252" type="curve" smooth="yes"/>
+      <point x="882" y="252"/>
+      <point x="1082" y="366"/>
+      <point x="1182" y="544" type="curve" smooth="yes"/>
+      <point x="1232" y="634"/>
+      <point x="1256" y="732"/>
+      <point x="1256" y="840" type="curve" smooth="yes"/>
+      <point x="1256" y="1112"/>
+      <point x="1070" y="1258"/>
+      <point x="732" y="1258" type="curve" smooth="yes"/>
+      <point x="690" y="1258"/>
+      <point x="648" y="1256"/>
+      <point x="602" y="1252" type="curve"/>
+      <point x="636" y="1494" type="line"/>
+      <point x="284" y="1494" type="line"/>
+    </contour>
+    <contour>
+      <point x="622" y="510" type="curve" smooth="yes"/>
+      <point x="574" y="510"/>
+      <point x="524" y="514"/>
+      <point x="500" y="522" type="curve"/>
+      <point x="570" y="1016" type="line"/>
+      <point x="738" y="1016"/>
+      <point x="540" y="1018"/>
+      <point x="668" y="1018" type="curve" smooth="yes"/>
+      <point x="846" y="1018"/>
+      <point x="918" y="954"/>
+      <point x="918" y="834" type="curve" smooth="yes"/>
+      <point x="908" y="626"/>
+      <point x="820" y="510"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 46 values pushed */
+13 1 4 3 26 1 5 4 2 74 0 3 0 4 5 3 4 100 0 5 0 0 1 5 0 99 0 2 2 17 75 0 1 1 18 1 76 37 37 34 17 21 34 6 7 26 
+CALL[ ]	/* CallFunction */</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

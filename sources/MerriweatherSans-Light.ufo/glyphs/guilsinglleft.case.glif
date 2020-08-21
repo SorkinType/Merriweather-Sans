@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft.case" format="2">
+  <advance width="1176"/>
+  <outline>
+    <contour>
+      <point x="240" y="680" type="line"/>
+      <point x="876" y="254" type="line"/>
+      <point x="920" y="372" type="line"/>
+      <point x="360" y="778" type="line"/>
+      <point x="360" y="722" type="line"/>
+      <point x="920" y="1132" type="line"/>
+      <point x="876" y="1254" type="line"/>
+      <point x="240" y="816" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglleft</string>
+    </dict>
+  </lib>
+</glyph>

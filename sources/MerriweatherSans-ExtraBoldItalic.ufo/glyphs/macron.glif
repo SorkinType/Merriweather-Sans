@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="606"/>
+  <unicode hex="00AF"/>
+  <note>
+macron
+</note>
+  <outline>
+    <contour>
+      <point x="16" y="1362" type="line"/>
+      <point x="598" y="1362" type="line"/>
+      <point x="616" y="1576" type="line"/>
+      <point x="34" y="1576" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 28 values pushed */
+2 1 1 0 0 1 85 2 1 1 1 0 89 0 0 1 0 77 0 0 0 3 0 3 17 3 7 21 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+    </dict>
+  </lib>
+</glyph>

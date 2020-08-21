@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.case" format="2">
+  <note>
+dotaccent.cap
+</note>
+  <anchor x="124" y="1494" name="_top"/>
+  <anchor x="174" y="1878" name="top"/>
+  <outline>
+    <contour>
+      <point x="144" y="1666" type="curve" smooth="yes"/>
+      <point x="204" y="1666"/>
+      <point x="258" y="1724"/>
+      <point x="258" y="1790" type="curve" smooth="yes"/>
+      <point x="258" y="1840"/>
+      <point x="224" y="1876"/>
+      <point x="170" y="1876" type="curve" smooth="yes"/>
+      <point x="112" y="1876"/>
+      <point x="62" y="1818"/>
+      <point x="62" y="1754" type="curve" smooth="yes"/>
+      <point x="62" y="1704"/>
+      <point x="96" y="1666"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 91 0 1 0 1 79 37 34 2 7 22 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

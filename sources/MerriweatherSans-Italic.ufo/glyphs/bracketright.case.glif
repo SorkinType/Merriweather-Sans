@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright.case" format="2">
+  <advance width="735"/>
+  <note>
+bracketright
+</note>
+  <outline>
+    <contour>
+      <point x="526" y="1705" type="curve" smooth="yes"/>
+      <point x="456" y="1705"/>
+      <point x="365" y="1691"/>
+      <point x="249" y="1657" type="curve"/>
+      <point x="237" y="1559" type="line"/>
+      <point x="502" y="1559" type="line"/>
+      <point x="286" y="-53" type="line"/>
+      <point x="21" y="-53" type="line"/>
+      <point x="7" y="-151" type="line"/>
+      <point x="45" y="-164"/>
+      <point x="208" y="-197"/>
+      <point x="272" y="-197" type="curve" smooth="yes"/>
+      <point x="426" y="-197"/>
+      <point x="476" y="-128"/>
+      <point x="500" y="55" type="curve" smooth="yes"/>
+      <point x="694" y="1451" type="line" smooth="yes"/>
+      <point x="698" y="1487"/>
+      <point x="701" y="1523"/>
+      <point x="701" y="1559" type="curve" smooth="yes"/>
+      <point x="701" y="1667"/>
+      <point x="647" y="1705"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bracketleft</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="650"/>
+  <unicode hex="006C"/>
+  <note>
+l
+</note>
+  <anchor x="260" y="0" name="bottom"/>
+  <anchor x="382" y="984" name="center"/>
+  <anchor x="464" y="1568" name="top"/>
+  <anchor x="714" y="1422" name="topright"/>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="646" y="1596" type="line"/>
+      <point x="296" y="1596" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+33 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 12 values pushed */
+2 1 1 1 19 75 0 0 0 18 0 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 12 values pushed */
+2 1 1 1 0 89 0 0 0 18 0 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+0 0 0 3 0 3 17 3 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

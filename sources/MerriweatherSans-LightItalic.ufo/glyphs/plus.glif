@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus" format="2">
+  <advance width="1334"/>
+  <unicode hex="002B"/>
+  <note>
+plus
+</note>
+  <outline>
+    <contour>
+      <point x="558" y="288" type="line"/>
+      <point x="694" y="288" type="line"/>
+      <point x="722" y="524" type="line"/>
+      <point x="736" y="700" type="line"/>
+      <point x="864" y="696" type="line"/>
+      <point x="1114" y="696" type="line"/>
+      <point x="1128" y="814" type="line"/>
+      <point x="878" y="814" type="line"/>
+      <point x="748" y="806" type="line"/>
+      <point x="776" y="982" type="line"/>
+      <point x="802" y="1206" type="line"/>
+      <point x="668" y="1206" type="line"/>
+      <point x="642" y="982" type="line"/>
+      <point x="626" y="804" type="line"/>
+      <point x="472" y="814" type="line"/>
+      <point x="250" y="814" type="line"/>
+      <point x="238" y="696" type="line"/>
+      <point x="458" y="696" type="line"/>
+      <point x="614" y="700" type="line"/>
+      <point x="586" y="524" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 38 values pushed */
+0 2 1 2 114 0 5 0 5 115 3 1 1 0 0 1 85 3 1 1 1 0 90 4 1 0 1 0 78 20 33 34 18 33 32 6 7 26 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

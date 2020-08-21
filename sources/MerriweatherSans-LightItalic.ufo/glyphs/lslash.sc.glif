@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.sc" format="2">
+  <advance width="926"/>
+  <note>
+Lslash
+</note>
+  <outline>
+    <contour>
+      <point x="193" y="546" type="line"/>
+      <point x="313" y="594" type="line"/>
+      <point x="759" y="766" type="line"/>
+      <point x="727" y="868" type="line"/>
+      <point x="323" y="710" type="line"/>
+      <point x="203" y="660" type="line"/>
+      <point x="-35" y="570" type="line"/>
+      <point x="-1" y="476" type="line"/>
+    </contour>
+    <component base="l.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 37 values pushed */
+10 9 4 3 4 2 1 1 74 0 1 1 17 75 3 1 2 2 0 89 0 0 0 18 0 76 0 0 0 13 0 13 21 17 4 7 22 
+CALL[ ]	/* CallFunction */</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

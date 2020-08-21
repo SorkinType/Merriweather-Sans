@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance width="1414"/>
+  <unicode hex="20B8"/>
+  <anchor x="707" y="-166" name="btm"/>
+  <anchor x="707" y="1660" name="top"/>
+  <outline>
+    <contour>
+      <point x="447" y="0" type="line"/>
+      <point x="805" y="0" type="line"/>
+      <point x="915" y="788" type="line"/>
+      <point x="1317" y="788" type="line"/>
+      <point x="1357" y="1064" type="line"/>
+      <point x="189" y="1064" type="line"/>
+      <point x="149" y="788" type="line"/>
+      <point x="557" y="788" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="1208" type="line"/>
+      <point x="1377" y="1208" type="line"/>
+      <point x="1415" y="1486" type="line"/>
+      <point x="247" y="1486" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
+    </dict>
+  </lib>
+</glyph>

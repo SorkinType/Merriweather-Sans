@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="1272"/>
+  <unicode hex="002A"/>
+  <note>
+asterisk
+</note>
+  <outline>
+    <contour>
+      <point x="594" y="632" type="line"/>
+      <point x="742" y="632" type="line"/>
+      <point x="748" y="928" type="line"/>
+      <point x="740" y="1070" type="line"/>
+      <point x="842" y="976" type="line"/>
+      <point x="1064" y="808" type="line"/>
+      <point x="1150" y="930" type="line"/>
+      <point x="902" y="1062" type="line"/>
+      <point x="776" y="1120" type="line"/>
+      <point x="916" y="1176" type="line"/>
+      <point x="1194" y="1308" type="line"/>
+      <point x="1136" y="1432" type="line"/>
+      <point x="876" y="1264" type="line"/>
+      <point x="750" y="1172" type="line"/>
+      <point x="786" y="1318" type="line"/>
+      <point x="836" y="1614" type="line"/>
+      <point x="692" y="1614" type="line"/>
+      <point x="684" y="1318" type="line"/>
+      <point x="690" y="1172" type="line"/>
+      <point x="584" y="1264" type="line"/>
+      <point x="356" y="1436" type="line"/>
+      <point x="272" y="1312" type="line"/>
+      <point x="526" y="1176" type="line"/>
+      <point x="656" y="1120" type="line"/>
+      <point x="514" y="1064" type="line"/>
+      <point x="234" y="938" type="line"/>
+      <point x="292" y="812" type="line"/>
+      <point x="554" y="978" type="line"/>
+      <point x="680" y="1070" type="line"/>
+      <point x="644" y="928" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 35 values pushed */
+29 28 26 21 19 18 16 14 13 11 6 4 3 1 14 1 0 1 74 0 1 1 0 89 0 0 0 19 1 76 30 24 2 7 22 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb.case" format="2">
+  <note>
+ogonek
+</note>
+  <anchor x="-100" y="0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="-434" y="-506" type="curve" smooth="yes"/>
+      <point x="-248" y="-506"/>
+      <point x="-164" y="-446"/>
+      <point x="-76" y="-356" type="curve"/>
+      <point x="-130" y="-246" type="line"/>
+      <point x="-192" y="-296"/>
+      <point x="-234" y="-330"/>
+      <point x="-298" y="-330" type="curve" smooth="yes"/>
+      <point x="-340" y="-330"/>
+      <point x="-366" y="-312"/>
+      <point x="-366" y="-258" type="curve" smooth="yes"/>
+      <point x="-366" y="-196"/>
+      <point x="-278" y="-104"/>
+      <point x="-100" y="0" type="curve"/>
+      <point x="-202" y="39" type="line"/>
+      <point x="-280" y="6" type="line" smooth="yes"/>
+      <point x="-423" y="-55"/>
+      <point x="-624" y="-182"/>
+      <point x="-624" y="-336" type="curve" smooth="yes"/>
+      <point x="-624" y="-436"/>
+      <point x="-540" y="-506"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 25 values pushed */
+10 1 1 0 1 74 9 1 2 0 72 0 0 1 0 114 0 1 1 105 37 37 2 7 22 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+    </dict>
+  </lib>
+</glyph>

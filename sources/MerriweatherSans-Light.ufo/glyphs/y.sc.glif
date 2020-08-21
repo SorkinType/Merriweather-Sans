@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y.sc" format="2">
+  <advance width="1182"/>
+  <anchor x="592" y="0" name="bottom"/>
+  <anchor x="608" y="-144" name="btm"/>
+  <anchor x="602" y="1800" name="top"/>
+  <anchor x="40" y="1292" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="514" y="0" type="line"/>
+      <point x="686" y="0" type="line"/>
+      <point x="686" y="546" type="line"/>
+      <point x="656" y="448" type="line"/>
+      <point x="1150" y="1292" type="line"/>
+      <point x="974" y="1292" type="line"/>
+      <point x="644" y="716" type="line"/>
+      <point x="590" y="588" type="line"/>
+      <point x="616" y="588" type="line"/>
+      <point x="556" y="716" type="line"/>
+      <point x="212" y="1292" type="line"/>
+      <point x="32" y="1292" type="line"/>
+      <point x="542" y="448" type="line"/>
+      <point x="514" y="546" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

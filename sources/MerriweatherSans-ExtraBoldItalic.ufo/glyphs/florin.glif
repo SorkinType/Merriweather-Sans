@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="1060"/>
+  <unicode hex="0192"/>
+  <note>
+florin
+</note>
+  <outline>
+    <contour>
+      <point x="158" y="-346" type="line"/>
+      <point x="498" y="-346" type="line"/>
+      <point x="670" y="904" type="line"/>
+      <point x="856" y="904" type="line"/>
+      <point x="880" y="1116" type="line"/>
+      <point x="696" y="1116" type="line"/>
+      <point x="720" y="1268" type="line" smooth="yes"/>
+      <point x="738" y="1380"/>
+      <point x="796" y="1420"/>
+      <point x="860" y="1420" type="curve" smooth="yes"/>
+      <point x="906" y="1420"/>
+      <point x="952" y="1392"/>
+      <point x="970" y="1374" type="curve"/>
+      <point x="1030" y="1606" type="line"/>
+      <point x="988" y="1622"/>
+      <point x="930" y="1630"/>
+      <point x="856" y="1630" type="curve" smooth="yes"/>
+      <point x="600" y="1630"/>
+      <point x="416" y="1466"/>
+      <point x="376" y="1216" type="curve" smooth="yes"/>
+      <point x="360" y="1116" type="line"/>
+      <point x="204" y="1086" type="line"/>
+      <point x="182" y="904" type="line"/>
+      <point x="332" y="904" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 10 values pushed */
+9 1 1 0 10 1 2 1 2 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+33 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 28 values pushed */
+0 4 3 4 115 0 1 1 0 91 0 0 0 27 75 6 5 2 3 3 2 89 0 2 2 20 3 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 26 values pushed */
+0 4 3 4 115 0 0 0 1 2 0 1 99 6 5 2 3 3 2 89 0 2 2 20 3 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 14 values pushed */
+0 0 0 23 0 23 17 17 19 36 38 7 7 25 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

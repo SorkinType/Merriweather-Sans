@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="1675"/>
+  <unicode hex="20A6"/>
+  <note>
+uni20A6
+</note>
+  <outline>
+    <contour>
+      <point x="106" y="402" type="line"/>
+      <point x="404" y="402" type="line"/>
+      <point x="424" y="544" type="line"/>
+      <point x="126" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="492" y="1114" type="line"/>
+      <point x="196" y="1114" type="line"/>
+      <point x="178" y="974" type="line"/>
+      <point x="474" y="974" type="line"/>
+    </contour>
+    <contour>
+      <point x="1250" y="400" type="line"/>
+      <point x="1528" y="400" type="line"/>
+      <point x="1548" y="542" type="line"/>
+      <point x="1270" y="542" type="line"/>
+    </contour>
+    <contour>
+      <point x="1616" y="1112" type="line"/>
+      <point x="1340" y="1112" type="line"/>
+      <point x="1322" y="972" type="line"/>
+      <point x="1598" y="972" type="line"/>
+    </contour>
+    <component base="N" xOffset="132"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 90 values pushed */
+29 1 8 9 43 1 2 1 2 74 20 14 12 10 4 8 18 16 13 3 7 0 8 7 98 17 15 6 3 0 19 5 3 3 1 2 0 1 97 11 1 9 9 17 75 4 1 2 2 18 2 76 28 28 41 40 39 38 37 36 35 34 33 32 28 31 28 31 27 26 25 24 23 22 21 20 19 18 17 17 17 17 17 17 17 17 16 21 7 29 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
+    </dict>
+  </lib>
+</glyph>

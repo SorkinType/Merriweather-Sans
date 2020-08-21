@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="1360"/>
+  <unicode hex="004F"/>
+  <note>
+O
+</note>
+  <anchor x="596" y="0" name="bottom"/>
+  <anchor x="696" y="748" name="center"/>
+  <anchor x="753" y="0" name="ogonek"/>
+  <anchor x="812" y="1494" name="top"/>
+  <anchor x="152" y="1494" name="topleft"/>
+  <anchor x="1434" y="1494" name="topright"/>
+  <outline>
+    <contour>
+      <point x="610" y="-16" type="curve" smooth="yes"/>
+      <point x="1066" y="-16"/>
+      <point x="1338" y="416"/>
+      <point x="1338" y="924" type="curve" smooth="yes"/>
+      <point x="1338" y="1258"/>
+      <point x="1150" y="1510"/>
+      <point x="808" y="1510" type="curve" smooth="yes"/>
+      <point x="348" y="1510"/>
+      <point x="70" y="1074"/>
+      <point x="70" y="564" type="curve" smooth="yes"/>
+      <point x="70" y="228"/>
+      <point x="266" y="-16"/>
+    </contour>
+    <contour>
+      <point x="636" y="244" type="curve" smooth="yes"/>
+      <point x="526" y="244"/>
+      <point x="426" y="348"/>
+      <point x="426" y="582" type="curve" smooth="yes"/>
+      <point x="426" y="858"/>
+      <point x="546" y="1250"/>
+      <point x="770" y="1250" type="curve" smooth="yes"/>
+      <point x="882" y="1250"/>
+      <point x="982" y="1174"/>
+      <point x="982" y="914" type="curve" smooth="yes"/>
+      <point x="982" y="628"/>
+      <point x="866" y="244"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 28 values pushed */
+0 2 2 0 91 0 0 0 25 75 0 3 3 1 91 0 1 1 26 1 76 38 38 38 34 4 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

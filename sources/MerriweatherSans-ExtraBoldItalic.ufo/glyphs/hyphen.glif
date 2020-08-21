@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance width="1224"/>
+  <unicode hex="002D"/>
+  <note>
+hyphen
+</note>
+  <outline>
+    <contour>
+      <point x="204" y="592" type="line"/>
+      <point x="1024" y="592" type="line"/>
+      <point x="1060" y="836" type="line"/>
+      <point x="240" y="836" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 28 values pushed */
+2 1 1 0 0 1 85 2 1 1 1 0 89 0 0 1 0 77 0 0 0 3 0 3 17 3 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

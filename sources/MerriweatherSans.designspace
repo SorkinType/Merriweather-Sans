@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="800" default="400">
+      <map input="300" output="82"/>
+      <map input="400" output="115"/>
+      <map input="700" output="152"/>
+      <map input="800" output="180"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="MerriweatherSans-Light.ufo" name="Merriweather Sans Light" familyname="Merriweather Sans" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="82"/>
+      </location>
+    </source>
+    <source filename="MerriweatherSans-Regular.ufo" name="Merriweather Sans Regular" familyname="Merriweather Sans" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="115"/>
+      </location>
+    </source>
+    <source filename="MerriweatherSans-ExtraBold.ufo" name="Merriweather Sans ExtraBold" familyname="Merriweather Sans" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="180"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Merriweather Sans Light" familyname="Merriweather Sans" stylename="Light" filename="instance_ufos/MerriweatherSans-Light.ufo" stylemapfamilyname="Merriweather Sans Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="82"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Merriweather Sans Regular" familyname="Merriweather Sans" stylename="Regular" filename="instance_ufos/MerriweatherSans-Regular.ufo" stylemapfamilyname="Merriweather Sans" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="115"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Merriweather Sans Bold" familyname="Merriweather Sans" stylename="Bold" filename="instance_ufos/MerriweatherSans-Bold.ufo" stylemapfamilyname="Merriweather Sans" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="152"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Merriweather Sans ExtraBold" familyname="Merriweather Sans" stylename="ExtraBold" filename="instance_ufos/MerriweatherSans-ExtraBold.ufo" stylemapfamilyname="Merriweather Sans ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="180"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>UFO.lib</key>
+      <dict>
+        <key>com.fontlab.v2.tth</key>
+        <dict>
+          <key>stems</key>
+          <dict>
+            <key>h00</key>
+            <dict>
+              <key>horizontal</key>
+              <integer>1</integer>
+              <key>round</key>
+              <dict>
+                <key>0</key>
+                <integer>1</integer>
+                <key>102</key>
+                <integer>5</integer>
+                <key>115</key>
+                <integer>6</integer>
+                <key>31</key>
+                <integer>2</integer>
+                <key>47</key>
+                <integer>3</integer>
+                <key>80</key>
+                <integer>4</integer>
+              </dict>
+              <key>width</key>
+              <integer>98</integer>
+            </dict>
+            <key>h01</key>
+            <dict>
+              <key>horizontal</key>
+              <integer>1</integer>
+              <key>round</key>
+              <dict>
+                <key>0</key>
+                <integer>1</integer>
+                <key>102</key>
+                <integer>5</integer>
+                <key>133</key>
+                <integer>6</integer>
+                <key>31</key>
+                <integer>2</integer>
+                <key>61</key>
+                <integer>3</integer>
+                <key>80</key>
+                <integer>4</integer>
+              </dict>
+              <key>width</key>
+              <integer>85</integer>
+            </dict>
+            <key>h02</key>
+            <dict>
+              <key>horizontal</key>
+              <integer>1</integer>
+              <key>round</key>
+              <dict>
+                <key>0</key>
+                <integer>1</integer>
+                <key>100</key>
+                <integer>6</integer>
+                <key>31</key>
+                <integer>2</integer>
+                <key>47</key>
+                <integer>3</integer>
+                <key>61</key>
+                <integer>4</integer>
+                <key>78</key>
+                <integer>5</integer>
+              </dict>
+              <key>width</key>
+              <integer>113</integer>
+            </dict>
+            <key>h03</key>
+            <dict>
+              <key>horizontal</key>
+              <integer>1</integer>
+              <key>round</key>
+              <dict>
+                <key>0</key>
+                <integer>1</integer>
+                <key>31</key>
+                <integer>2</integer>
+                <key>47</key>
+                <integer>3</integer>
+                <key>61</key>
+                <integer>4</integer>
+                <key>78</key>
+                <integer>5</integer>
+                <key>90</key>
+                <integer>6</integer>
+              </dict>
+              <key>width</key>
+              <integer>126</integer>
+            </dict>
+            <key>v00</key>
+            <dict>
+              <key>horizontal</key>
+              <integer>0</integer>
+              <key>round</key>
+              <dict>
+                <key>0</key>
+                <integer>1</integer>
+                <key>17</key>
+                <integer>2</integer>
+                <key>28</key>
+                <integer>3</integer>
+                <key>37</key>
+                <integer>4</integer>
+                <key>48</key>
+                <integer>5</integer>
+                <key>61</key>
+                <integer>6</integer>
+              </dict>
+              <key>width</key>
+              <integer>186</integer>
+            </dict>
+            <key>v01</key>
+            <dict>
+              <key>horizontal</key>
+              <integer>0</integer>
+              <key>round</key>
+              <dict>
+                <key>0</key>
+                <integer>1</integer>
+                <key>17</key>
+                <integer>2</integer>
+                <key>28</key>
+                <integer>3</integer>
+                <key>45</key>
+                <integer>4</integer>
+                <key>58</key>
+                <integer>5</integer>
+                <key>71</key>
+                <integer>6</integer>
+              </dict>
+              <key>width</key>
+              <integer>160</integer>
+            </dict>
+            <key>v02</key>
+            <dict>
+              <key>horizontal</key>
+              <integer>0</integer>
+              <key>round</key>
+              <dict>
+                <key>0</key>
+                <integer>1</integer>
+                <key>17</key>
+                <integer>2</integer>
+                <key>28</key>
+                <integer>3</integer>
+                <key>37</key>
+                <integer>4</integer>
+                <key>48</key>
+                <integer>5</integer>
+                <key>55</key>
+                <integer>6</integer>
+              </dict>
+              <key>width</key>
+              <integer>205</integer>
+            </dict>
+          </dict>
+        </dict>
+      </dict>
+      <key>UFOFormat</key>
+      <integer>2</integer>
+    </dict>
+  </lib>
+</designspace>

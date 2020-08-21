@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.sc" format="2">
+  <advance width="1744"/>
+  <anchor x="872" y="0" name="bottom"/>
+  <anchor x="1302" y="-144" name="btm"/>
+  <anchor x="1094" y="1826" name="top"/>
+  <outline>
+    <contour>
+      <point x="-50" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="762" y="1210" type="line"/>
+      <point x="626" y="1292" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="1292" type="line"/>
+      <point x="626" y="1292" type="line"/>
+      <point x="656" y="1162" type="line"/>
+      <point x="856" y="1162" type="line"/>
+    </contour>
+    <contour>
+      <point x="226" y="340" type="line"/>
+      <point x="922" y="340" type="line"/>
+      <point x="892" y="466" type="line"/>
+      <point x="258" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="0" type="line"/>
+      <point x="1678" y="0" type="line"/>
+      <point x="1678" y="132" type="line"/>
+      <point x="958" y="132" type="line"/>
+      <point x="958" y="602" type="line"/>
+      <point x="1444" y="602" type="line"/>
+      <point x="1444" y="732" type="line"/>
+      <point x="958" y="732" type="line"/>
+      <point x="958" y="1162" type="line"/>
+      <point x="1608" y="1162" type="line"/>
+      <point x="1608" y="1292" type="line"/>
+      <point x="792" y="1292" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

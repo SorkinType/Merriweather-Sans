@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin" format="2">
+  <advance width="1322"/>
+  <unicode hex="20BF"/>
+  <outline>
+    <contour>
+      <point x="435" y="1426" type="line"/>
+      <point x="547" y="1426" type="line"/>
+      <point x="553" y="1704" type="line"/>
+      <point x="441" y="1704" type="line"/>
+    </contour>
+    <contour>
+      <point x="723" y="1426" type="line"/>
+      <point x="835" y="1426" type="line"/>
+      <point x="841" y="1704" type="line"/>
+      <point x="729" y="1704" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="-184" type="line"/>
+      <point x="503" y="-184" type="line"/>
+      <point x="509" y="94" type="line"/>
+      <point x="397" y="94" type="line"/>
+    </contour>
+    <contour>
+      <point x="679" y="-184" type="line"/>
+      <point x="791" y="-184" type="line"/>
+      <point x="797" y="94" type="line"/>
+      <point x="685" y="94" type="line"/>
+    </contour>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>B</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

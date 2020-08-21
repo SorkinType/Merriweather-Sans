@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="1523"/>
+  <unicode hex="20B2"/>
+  <note>
+uni20B2
+</note>
+  <outline>
+    <contour>
+      <point x="637" y="-252" type="line"/>
+      <point x="833" y="-252" type="line"/>
+      <point x="863" y="-6" type="line"/>
+      <point x="967" y="4"/>
+      <point x="1053" y="26"/>
+      <point x="1151" y="56" type="curve" smooth="yes"/>
+      <point x="1197" y="70"/>
+      <point x="1235" y="78"/>
+      <point x="1263" y="80" type="curve"/>
+      <point x="1363" y="804" type="line"/>
+      <point x="833" y="804" type="line"/>
+      <point x="803" y="556" type="line"/>
+      <point x="1041" y="556" type="line"/>
+      <point x="997" y="260" type="line"/>
+      <point x="943" y="234"/>
+      <point x="847" y="220"/>
+      <point x="777" y="220" type="curve" smooth="yes"/>
+      <point x="575" y="220"/>
+      <point x="479" y="368"/>
+      <point x="479" y="618" type="curve" smooth="yes"/>
+      <point x="479" y="948"/>
+      <point x="623" y="1254"/>
+      <point x="929" y="1254" type="curve" smooth="yes"/>
+      <point x="1055" y="1254"/>
+      <point x="1247" y="1190"/>
+      <point x="1307" y="1144" type="curve"/>
+      <point x="1375" y="1428" type="line"/>
+      <point x="1217" y="1480"/>
+      <point x="1171" y="1496"/>
+      <point x="1043" y="1504" type="curve"/>
+      <point x="1077" y="1732" type="line"/>
+      <point x="881" y="1732" type="line"/>
+      <point x="847" y="1504" type="line"/>
+      <point x="425" y="1452"/>
+      <point x="161" y="1062"/>
+      <point x="163" y="596" type="curve"/>
+      <point x="163" y="264"/>
+      <point x="333" y="10"/>
+      <point x="667" y="-12" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 52 values pushed */
+28 25 2 3 4 24 1 0 3 2 74 0 4 0 3 0 4 3 99 0 0 0 1 2 0 1 97 0 2 5 5 2 87 0 2 2 5 89 0 5 2 5 77 26 24 37 35 17 22 6 7 26 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>cedi</string>
+    </dict>
+  </lib>
+</glyph>

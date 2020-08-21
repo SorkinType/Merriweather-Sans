@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.case" format="2">
+  <advance width="670"/>
+  <note>
+periodcentered
+</note>
+  <outline>
+    <component base="period" xOffset="116" yOffset="630"/>
+  </outline>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls" format="2">
+  <advance width="1402"/>
+  <unicode hex="1E9E"/>
+  <note>
+uni1E9E
+</note>
+  <outline>
+    <contour>
+      <point x="798" y="-22" type="curve" smooth="yes"/>
+      <point x="1066" y="-22"/>
+      <point x="1294" y="186"/>
+      <point x="1310" y="478" type="curve" smooth="yes"/>
+      <point x="1322" y="696"/>
+      <point x="1118" y="856"/>
+      <point x="920" y="856" type="curve"/>
+      <point x="1284" y="1336" type="line"/>
+      <point x="1296" y="1412" type="line"/>
+      <point x="1266" y="1412"/>
+      <point x="1242" y="1422"/>
+      <point x="1192" y="1440" type="curve" smooth="yes"/>
+      <point x="1094" y="1476"/>
+      <point x="1016" y="1502"/>
+      <point x="880" y="1502" type="curve" smooth="yes"/>
+      <point x="462" y="1502"/>
+      <point x="252" y="1186"/>
+      <point x="202" y="736" type="curve" smooth="yes"/>
+      <point x="102" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="364" y="818" type="line" smooth="yes"/>
+      <point x="398" y="1140"/>
+      <point x="582" y="1384"/>
+      <point x="876" y="1384" type="curve" smooth="yes"/>
+      <point x="972" y="1384"/>
+      <point x="1054" y="1358"/>
+      <point x="1112" y="1320" type="curve"/>
+      <point x="746" y="832" type="line"/>
+      <point x="738" y="766" type="line"/>
+      <point x="1034" y="766"/>
+      <point x="1164" y="662"/>
+      <point x="1152" y="460" type="curve" smooth="yes"/>
+      <point x="1140" y="248"/>
+      <point x="972" y="98"/>
+      <point x="794" y="98" type="curve" smooth="yes"/>
+      <point x="668" y="98"/>
+      <point x="574" y="134"/>
+      <point x="520" y="182" type="curve"/>
+      <point x="440" y="62" type="line"/>
+      <point x="522" y="8"/>
+      <point x="606" y="-22"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 71 values pushed */
+35 1 2 6 34 1 5 2 23 1 4 5 22 1 7 4 4 74 0 1 0 6 0 1 6 112 0 2 0 5 4 2 5 99 0 6 6 0 91 0 0 0 17 75 0 7 7 18 75 0 4 4 3 91 0 3 3 26 3 76 20 36 21 37 38 18 20 34 8 7 28 
+CALL[ ]	/* CallFunction */</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

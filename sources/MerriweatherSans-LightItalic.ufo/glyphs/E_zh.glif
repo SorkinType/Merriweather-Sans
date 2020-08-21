@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ezh" format="2">
+  <advance width="1016"/>
+  <unicode hex="01B7"/>
+  <anchor x="674" y="1494" name="top"/>
+  <outline>
+    <contour>
+      <point x="332" y="-14" type="curve" smooth="yes"/>
+      <point x="752" y="-8"/>
+      <point x="960" y="216"/>
+      <point x="960" y="498" type="curve" smooth="yes"/>
+      <point x="960" y="696"/>
+      <point x="764" y="876"/>
+      <point x="516" y="852" type="curve"/>
+      <point x="1038" y="1340" type="line"/>
+      <point x="1064" y="1496" type="line"/>
+      <point x="218" y="1494" type="line"/>
+      <point x="202" y="1376" type="line"/>
+      <point x="930" y="1384" type="line"/>
+      <point x="790" y="1274" type="line"/>
+      <point x="310" y="812" type="line"/>
+      <point x="294" y="666" type="line"/>
+      <point x="422" y="756" type="line"/>
+      <point x="668" y="778"/>
+      <point x="816" y="654"/>
+      <point x="816" y="472" type="curve" smooth="yes"/>
+      <point x="816" y="298"/>
+      <point x="652" y="100"/>
+      <point x="326" y="100" type="curve" smooth="yes"/>
+      <point x="244" y="100"/>
+      <point x="156" y="104"/>
+      <point x="100" y="116" type="curve"/>
+      <point x="84" y="10" type="line"/>
+      <point x="154" y="-6"/>
+      <point x="214" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h.sc" format="2">
+  <advance width="1416"/>
+  <anchor x="708" y="0" name="bottom"/>
+  <anchor x="704" y="-144" name="btm"/>
+  <anchor x="708" y="646" name="center"/>
+  <anchor x="708" y="1800" name="top"/>
+  <anchor x="20" y="1292" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="342" y="590" type="line"/>
+      <point x="1074" y="590" type="line"/>
+      <point x="1074" y="0" type="line"/>
+      <point x="1240" y="0" type="line"/>
+      <point x="1240" y="1292" type="line"/>
+      <point x="1074" y="1292" type="line"/>
+      <point x="1074" y="720" type="line"/>
+      <point x="342" y="720" type="line"/>
+      <point x="342" y="1292" type="line"/>
+      <point x="176" y="1292" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

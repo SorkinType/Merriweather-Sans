@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <note>
+circumflex
+</note>
+  <anchor x="124" y="1494" name="_top"/>
+  <anchor x="186" y="1952" name="top"/>
+  <outline>
+    <contour>
+      <point x="-125" y="1623" type="line"/>
+      <point x="177" y="1860" type="line"/>
+      <point x="378" y="1630" type="line"/>
+      <point x="479" y="1697" type="line"/>
+      <point x="290" y="2049" type="line"/>
+      <point x="116" y="2049" type="line"/>
+      <point x="-210" y="1697" type="line"/>
+    </contour>
+  </outline>
+</glyph>

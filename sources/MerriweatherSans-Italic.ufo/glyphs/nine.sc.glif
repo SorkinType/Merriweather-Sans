@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.sc" format="2">
+  <advance width="1168"/>
+  <outline>
+    <contour>
+      <point x="326" y="-76" type="line"/>
+      <point x="792" y="36"/>
+      <point x="1104" y="462"/>
+      <point x="1098" y="880" type="curve" smooth="yes"/>
+      <point x="1094" y="1114"/>
+      <point x="968" y="1314"/>
+      <point x="676" y="1314" type="curve" smooth="yes"/>
+      <point x="328" y="1314"/>
+      <point x="160" y="1058"/>
+      <point x="160" y="818" type="curve" smooth="yes"/>
+      <point x="160" y="636"/>
+      <point x="286" y="456"/>
+      <point x="534" y="456" type="curve" smooth="yes"/>
+      <point x="658" y="456"/>
+      <point x="758" y="484"/>
+      <point x="816" y="528" type="curve"/>
+      <point x="750" y="384"/>
+      <point x="556" y="142"/>
+      <point x="274" y="56" type="curve" name="hr00"/>
+    </contour>
+    <contour>
+      <point x="594" y="616" type="curve" smooth="yes"/>
+      <point x="486" y="616"/>
+      <point x="380" y="682"/>
+      <point x="380" y="842" type="curve" smooth="yes"/>
+      <point x="380" y="974"/>
+      <point x="462" y="1164"/>
+      <point x="654" y="1164" type="curve" smooth="yes"/>
+      <point x="812" y="1164"/>
+      <point x="880" y="1032"/>
+      <point x="882" y="882" type="curve"/>
+      <point x="882" y="824"/>
+      <point x="878" y="772"/>
+      <point x="862" y="712" type="curve"/>
+      <point x="828" y="678"/>
+      <point x="742" y="616"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

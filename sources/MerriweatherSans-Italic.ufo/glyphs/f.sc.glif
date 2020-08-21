@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.sc" format="2">
+  <advance width="967"/>
+  <note>
+F
+</note>
+  <anchor x="425" y="0" name="bottom"/>
+  <anchor x="637" y="1280" name="top"/>
+  <outline>
+    <contour>
+      <point x="93" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="389" y="566" type="line"/>
+      <point x="825" y="554" type="line"/>
+      <point x="841" y="738" type="line"/>
+      <point x="407" y="730" type="line"/>
+      <point x="461" y="1128" type="line"/>
+      <point x="1001" y="1122" type="line"/>
+      <point x="1017" y="1294" type="line"/>
+      <point x="261" y="1294" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

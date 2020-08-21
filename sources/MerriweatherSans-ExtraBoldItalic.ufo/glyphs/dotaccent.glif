@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent" format="2">
+  <advance width="382"/>
+  <unicode hex="02D9"/>
+  <note>
+dotaccent
+</note>
+  <outline>
+    <contour>
+      <point x="166" y="1282" type="curve" smooth="yes"/>
+      <point x="298" y="1282"/>
+      <point x="378" y="1366"/>
+      <point x="378" y="1484" type="curve" smooth="yes"/>
+      <point x="378" y="1570"/>
+      <point x="302" y="1642"/>
+      <point x="206" y="1642" type="curve" smooth="yes"/>
+      <point x="86" y="1642"/>
+      <point x="0" y="1554"/>
+      <point x="0" y="1442" type="curve" smooth="yes"/>
+      <point x="0" y="1356"/>
+      <point x="80" y="1282"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 91 0 1 0 1 79 38 34 2 7 22 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+    </dict>
+  </lib>
+</glyph>

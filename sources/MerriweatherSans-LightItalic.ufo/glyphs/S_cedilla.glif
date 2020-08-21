@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scedilla" format="2">
+  <advance width="1020"/>
+  <unicode hex="015E"/>
+  <note>
+Scedilla
+</note>
+  <outline>
+    <component base="S"/>
+    <component base="cedillacomb.case" xOffset="508"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 24 values pushed */
+55 1 5 4 56 34 2 3 5 33 14 2 2 3 23 1 1 2 22 1 0 1 5 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+24 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 32 values pushed */
+6 1 5 5 4 91 0 4 4 25 75 0 3 3 2 91 0 2 2 26 75 0 1 1 0 91 0 0 0 22 0 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 29 values pushed */
+0 1 0 0 1 0 95 6 1 5 5 4 91 0 4 4 25 75 0 3 3 2 91 0 2 2 26 2 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 0 59 0 58 54 52 39 37 30 29 26 24 20 18 7 7 20 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

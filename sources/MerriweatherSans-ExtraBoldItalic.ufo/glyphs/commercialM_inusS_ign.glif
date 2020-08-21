@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="1318"/>
+  <unicode hex="2052"/>
+  <outline>
+    <component base="fraction" xOffset="412"/>
+    <component base="bullet" xOffset="-70" yOffset="490"/>
+    <component base="bullet" xOffset="578" yOffset="-314"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

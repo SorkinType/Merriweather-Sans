@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v" format="2">
+  <advance width="984"/>
+  <unicode hex="0076"/>
+  <note>
+v
+</note>
+  <anchor x="418" y="0" name="bottom"/>
+  <anchor x="566" y="1114" name="top"/>
+  <outline>
+    <contour>
+      <point x="280" y="-14" type="line"/>
+      <point x="412" y="-4" type="line"/>
+      <point x="798" y="414"/>
+      <point x="934" y="668"/>
+      <point x="956" y="980" type="curve" smooth="yes"/>
+      <point x="958" y="1016"/>
+      <point x="958" y="1064"/>
+      <point x="954" y="1114" type="curve"/>
+      <point x="816" y="1114" type="line"/>
+      <point x="816" y="1060"/>
+      <point x="802" y="934"/>
+      <point x="792" y="872" type="curve" smooth="yes"/>
+      <point x="756" y="664"/>
+      <point x="676" y="512"/>
+      <point x="538" y="318" type="curve" smooth="yes"/>
+      <point x="374" y="114" type="line"/>
+      <point x="352" y="346" type="line"/>
+      <point x="272" y="1114" type="line"/>
+      <point x="112" y="1114" type="line"/>
+      <point x="222" y="346" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 17 values pushed */
+23 14 11 3 4 0 71 0 0 0 20 0 76 16 1 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

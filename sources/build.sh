@@ -1,104 +1,82 @@
-#!/bin/sh
-source venv/bin/activate
+# #!/bin/sh
+# Exist on first fail
 set -e
+# Run this after fonts have been generated
 
-cd sources
-
-echo "Generating Static fonts"
-mkdir -p ../fonts/ttfs
-fontmake -g "MerriweatherSans for VF.glyphs" -i -o ttf --output-dir ../fonts/ttfs/
-fontmake -g "MerriweatherSans-Italic for VF.glyphs" -i -o ttf --output-dir ../fonts/ttfs/
+# Go the sources directory to run commands
+SOURCE="${BASH_SOURCE[0]}"
+DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
+cd $DIR
+echo $(pwd)
 
 echo "Generating VFs"
 mkdir -p ../fonts/variable
-fontmake -g "MerriweatherSans for VF.glyphs" -o variable --output-path ../fonts/variable/MerriweatherSans-Roman-VF.ttf
-fontmake -g "MerriweatherSans-Italic for VF.glyphs" -o variable --output-path ../fonts/variable/MerriweatherSans-Italic-VF.ttf
+fontmake -m MerriweatherSans.designspace -o variable --output-path ../fonts/variable/MerriweatherSans[wght].ttf
+fontmake -m MerriweatherSans-Italic.designspace -o variable --output-path ../fonts/variable/MerriweatherSans-Italic[wght].ttf
 
-# rm -rf master_ufo/ instance_ufo/
-echo "Post processing"
+rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
+vfs=$(ls ../fonts/variable/*\[wght\].ttf)
 
-ttfs=$(ls ../fonts/ttfs/*.ttf)
-for ttf in $ttfs
-do
-	gftools fix-dsig -f $ttf;
-	gftools fix-nonhinting $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
-done
-rm ../fonts/ttfs/*backup*.ttf
-
-vfs=$(ls ../fonts/variable/*.ttf)
+echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	gftools fix-nonhinting $vf "$vf.fix";
-	mv "$vf.fix" $vf;
+	gftools fix-nonhinting $vf $vf.fix
+	mv $vf.fix $vf
+	# python3 -m ttfautohint --stem-width-mode nnn $vf "$vf.fix";
+	# mv "$vf.fix" $vf;
+done
+rm ../fonts/variable/*gasp.ttf
+
+gftools fix-vf-meta $vfs
+for vf in $vfs
+do
+	mv $vf.fix $vf
+done
+
+echo "Dropping MVAR"
+for vf in $vfs
+do
+	# mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
 	new_file=../fonts/variable/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
-	rm ../fonts/variable/*.ttx
+	rm $new_file
 done
-rm ../fonts/variable/*backup*.ttf
 
-gftools fix-vf-meta $vfs;
-for vf in $vfs
+
+echo "Generating Static fonts"
+mkdir -p ../fonts
+fontmake -m MerriweatherSans.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m MerriweatherSans.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m MerriweatherSans-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m MerriweatherSans-Italic.designspace -i -o otf --output-dir ../fonts/otf/
+
+echo "Post processing"
+ttf=$(ls ../fonts/ttf/*.ttf)
+for ttf in $ttf
 do
-	mv "$vf.fix" $vf;
+	gftools fix-dsig -f $ttf;
+	python3 -m ttfautohint -l 6 -r 50 -G 0 -x 11 -H 220 -D latn -f none -a qqq -X "" $ttf "$ttf.fix";
+	mv "$ttf.fix" $ttf;
 done
 
-cd ..
-
-# ============================================================================
-# Autohinting ================================================================
-
-statics=$(ls fonts/ttfs/*.ttf)
-echo hello
-for file in $statics; do 
-    echo "fix DSIG in " ${file}
-    gftools fix-dsig --autofix ${file}
-
-    echo "TTFautohint " ${file}
-    # autohint with detailed info
-    hintedFile=${file/".ttf"/"-hinted.ttf"}
-    ttfautohint -I ${file} ${hintedFile} 
-    cp ${hintedFile} ${file}
-    rm -rf ${hintedFile}
+for ttf in $ttf
+do
+  gftools fix-hinting $ttf;
+  mv "$ttf.fix" $ttf;
 done
 
-
-# ============================================================================
-# Build woff2 fonts ==========================================================
-
-# requires https://github.com/bramstein/homebrew-webfonttools
-
-rm -rf fonts/woff2
-
-ttfs=$(ls fonts/*/*.ttf)
-for ttf in $ttfs; do
-    woff2_compress $ttf
+echo "Fix DSIG in OTFs"
+otfs=$(ls ../fonts/otf/*.otf)
+for otf in $otfs
+do
+	gftools fix-dsig -f $otf;
 done
 
-mkdir -p fonts/woff2
-woff2s=$(ls fonts/*/*.woff2)
-for woff2 in $woff2s; do
-    mv $woff2 fonts/woff2/$(basename $woff2)
-done
-# ============================================================================
-# Build woff fonts ==========================================================
+rm -rf master_ufo/ instance_ufo/ instance_ufos/*
 
-# requires https://github.com/bramstein/homebrew-webfonttools
-
-rm -rf fonts/woff
-
-ttfs=$(ls fonts/*/*.ttf)
-for ttf in $ttfs; do
-    sfnt2woff-zopfli $ttf
-done
-
-mkdir -p fonts/woff
-woffs=$(ls fonts/*/*.woff)
-for woff in $woffs; do
-    mv $woff fonts/woff/$(basename $woff)
-done
+echo done

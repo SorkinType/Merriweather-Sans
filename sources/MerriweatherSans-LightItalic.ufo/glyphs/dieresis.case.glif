@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.case" format="2">
+  <note>
+dieresis.cap
+</note>
+  <anchor x="124" y="1494" name="_top"/>
+  <anchor x="174" y="1878" name="top"/>
+  <outline>
+    <contour>
+      <point x="352" y="1680" type="curve" smooth="yes"/>
+      <point x="416" y="1680"/>
+      <point x="466" y="1738"/>
+      <point x="466" y="1804" type="curve" smooth="yes"/>
+      <point x="466" y="1854"/>
+      <point x="432" y="1890"/>
+      <point x="378" y="1890" type="curve" smooth="yes"/>
+      <point x="324" y="1890"/>
+      <point x="268" y="1834"/>
+      <point x="268" y="1774" type="curve" smooth="yes"/>
+      <point x="268" y="1720"/>
+      <point x="304" y="1680"/>
+    </contour>
+    <contour>
+      <point x="-58" y="1680" type="curve" smooth="yes"/>
+      <point x="4" y="1680"/>
+      <point x="56" y="1736"/>
+      <point x="56" y="1802" type="curve" smooth="yes"/>
+      <point x="56" y="1852"/>
+      <point x="22" y="1890"/>
+      <point x="-34" y="1890" type="curve" smooth="yes"/>
+      <point x="-86" y="1890"/>
+      <point x="-142" y="1832"/>
+      <point x="-142" y="1770" type="curve" smooth="yes"/>
+      <point x="-142" y="1720"/>
+      <point x="-106" y="1680"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 26 values pushed */
+2 1 0 1 1 0 87 2 1 0 0 1 91 3 1 1 0 1 79 36 37 37 34 4 7 24 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

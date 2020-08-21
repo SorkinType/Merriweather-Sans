@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c.sc" format="2">
+  <advance width="1089"/>
+  <note>
+C
+</note>
+  <anchor x="580" y="0" name="bottom"/>
+  <anchor x="718" y="1280" name="top"/>
+  <outline>
+    <contour>
+      <point x="577" y="-14" type="curve" smooth="yes"/>
+      <point x="761" y="-14"/>
+      <point x="916" y="37"/>
+      <point x="979" y="81" type="curve"/>
+      <point x="945" y="248" type="line"/>
+      <point x="893" y="211"/>
+      <point x="738" y="163"/>
+      <point x="620" y="163" type="curve" smooth="yes"/>
+      <point x="409" y="163"/>
+      <point x="314" y="323"/>
+      <point x="314" y="566" type="curve" smooth="yes"/>
+      <point x="314" y="747"/>
+      <point x="366" y="926"/>
+      <point x="500" y="1042" type="curve" smooth="yes"/>
+      <point x="568" y="1103"/>
+      <point x="650" y="1130"/>
+      <point x="756" y="1130" type="curve" smooth="yes"/>
+      <point x="885" y="1130"/>
+      <point x="940" y="1099"/>
+      <point x="1008" y="1061" type="curve"/>
+      <point x="1078" y="1255" type="line"/>
+      <point x="949" y="1299"/>
+      <point x="862" y="1314"/>
+      <point x="766" y="1314" type="curve" smooth="yes"/>
+      <point x="509" y="1314"/>
+      <point x="290" y="1173"/>
+      <point x="174" y="941" type="curve" smooth="yes"/>
+      <point x="115" y="824"/>
+      <point x="88" y="698"/>
+      <point x="88" y="559" type="curve" smooth="yes"/>
+      <point x="88" y="228"/>
+      <point x="246" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

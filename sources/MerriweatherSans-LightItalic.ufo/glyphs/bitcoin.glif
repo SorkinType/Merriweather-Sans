@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin" format="2">
+  <advance width="1242"/>
+  <unicode hex="20BF"/>
+  <outline>
+    <contour>
+      <point x="786" y="1426" type="line"/>
+      <point x="898" y="1426" type="line"/>
+      <point x="942" y="1704" type="line"/>
+      <point x="830" y="1704" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="-184" type="line"/>
+      <point x="390" y="-184" type="line"/>
+      <point x="434" y="72" type="line"/>
+      <point x="322" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="566" y="-184" type="line"/>
+      <point x="678" y="-184" type="line"/>
+      <point x="722" y="72" type="line"/>
+      <point x="610" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="1426" type="line"/>
+      <point x="610" y="1426" type="line"/>
+      <point x="654" y="1704" type="line"/>
+      <point x="542" y="1704" type="line"/>
+    </contour>
+    <component base="B"/>
+  </outline>
+</glyph>

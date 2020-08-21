@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="1336"/>
+  <unicode hex="2264"/>
+  <note>
+lessequal
+</note>
+  <outline>
+    <contour>
+      <point x="1068" y="240" type="line"/>
+      <point x="1084" y="376" type="line"/>
+      <point x="408" y="710" type="line"/>
+      <point x="1160" y="1038" type="line"/>
+      <point x="1176" y="1176" type="line"/>
+      <point x="200" y="742" type="line"/>
+      <point x="194" y="684" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="0" type="line"/>
+      <point x="1062" y="0" type="line"/>
+      <point x="1076" y="110" type="line"/>
+      <point x="150" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 6 values pushed */
+8 7 4 0 2 48 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

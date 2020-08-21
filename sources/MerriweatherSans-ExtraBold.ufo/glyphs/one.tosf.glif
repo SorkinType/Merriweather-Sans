@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tosf" format="2">
+  <advance width="1354"/>
+  <outline>
+    <contour>
+      <point x="144" y="216" type="line" name="hr00"/>
+      <point x="144" y="0" type="line"/>
+      <point x="1258" y="0" type="line"/>
+      <point x="1258" y="216" type="line"/>
+      <point x="924" y="216" type="line"/>
+      <point x="926" y="1344" type="line"/>
+      <point x="736" y="1390" type="line"/>
+      <point x="736" y="1390" type="line"/>
+      <point x="652" y="1306"/>
+      <point x="376" y="1160"/>
+      <point x="128" y="1116" type="curve"/>
+      <point x="170" y="906" type="line"/>
+      <point x="300" y="914"/>
+      <point x="470" y="948"/>
+      <point x="552" y="986" type="curve"/>
+      <point x="552" y="216" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>677</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

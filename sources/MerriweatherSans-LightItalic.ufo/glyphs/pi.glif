@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi" format="2">
+  <advance width="1520"/>
+  <unicode hex="03C0"/>
+  <note>
+pi
+</note>
+  <outline>
+    <contour>
+      <point x="216" y="-22" type="line"/>
+      <point x="276" y="-8"/>
+      <point x="324" y="14"/>
+      <point x="360" y="44" type="curve" smooth="yes"/>
+      <point x="434" y="110"/>
+      <point x="508" y="264"/>
+      <point x="522" y="420" type="curve" smooth="yes"/>
+      <point x="606" y="978" type="line"/>
+      <point x="956" y="978" type="line"/>
+      <point x="940" y="890"/>
+      <point x="838" y="192"/>
+      <point x="838" y="164" type="curve" smooth="yes"/>
+      <point x="838" y="50"/>
+      <point x="902" y="-16"/>
+      <point x="1020" y="-16" type="curve" smooth="yes"/>
+      <point x="1142" y="-16"/>
+      <point x="1318" y="138"/>
+      <point x="1340" y="250" type="curve"/>
+      <point x="1258" y="286" type="line"/>
+      <point x="1226" y="196"/>
+      <point x="1136" y="112"/>
+      <point x="1066" y="112" type="curve" smooth="yes"/>
+      <point x="1014" y="112"/>
+      <point x="988" y="142"/>
+      <point x="988" y="200" type="curve"/>
+      <point x="1000" y="264"/>
+      <point x="1044" y="628"/>
+      <point x="1090" y="978" type="curve"/>
+      <point x="1294" y="978"/>
+      <point x="1376" y="1018"/>
+      <point x="1392" y="1186" type="curve"/>
+      <point x="1286" y="1186" type="line"/>
+      <point x="1268" y="1132"/>
+      <point x="1228" y="1116"/>
+      <point x="1138" y="1116" type="curve" smooth="yes"/>
+      <point x="424" y="1116" type="line" smooth="yes"/>
+      <point x="234" y="1116"/>
+      <point x="132" y="1050"/>
+      <point x="98" y="898" type="curve"/>
+      <point x="182" y="858" type="line"/>
+      <point x="216" y="932"/>
+      <point x="290" y="978"/>
+      <point x="402" y="978" type="curve" smooth="yes"/>
+      <point x="470" y="978" type="line"/>
+      <point x="380" y="464" type="line"/>
+      <point x="360" y="308"/>
+      <point x="340" y="200"/>
+      <point x="240" y="126" type="curve"/>
+      <point x="198" y="96"/>
+      <point x="148" y="74"/>
+      <point x="118" y="68" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 4 values pushed */
+46 25 1 48 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

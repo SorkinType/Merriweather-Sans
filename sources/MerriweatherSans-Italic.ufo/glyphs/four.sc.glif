@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.sc" format="2">
+  <advance width="1178"/>
+  <outline>
+    <contour>
+      <point x="596" y="0" type="line"/>
+      <point x="804" y="0" type="line"/>
+      <point x="832" y="254" type="line"/>
+      <point x="1064" y="254" type="line"/>
+      <point x="1086" y="430" type="line"/>
+      <point x="852" y="418" type="line"/>
+      <point x="902" y="818" type="line"/>
+      <point x="692" y="786" type="line"/>
+      <point x="646" y="410" type="line"/>
+      <point x="250" y="396" type="line"/>
+      <point x="326" y="482" type="line"/>
+      <point x="848" y="1228" type="line"/>
+      <point x="738" y="1292" type="line"/>
+      <point x="606" y="1292" type="line"/>
+      <point x="398" y="948"/>
+      <point x="212" y="624"/>
+      <point x="16" y="358" type="curve"/>
+      <point x="62" y="254" type="line" name="hr00"/>
+      <point x="626" y="254" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.case" format="2">
+  <note>
+caron.cap
+</note>
+  <anchor x="124" y="1494" name="_top"/>
+  <anchor x="174" y="1878" name="top"/>
+  <outline>
+    <contour>
+      <point x="70" y="1576" type="line"/>
+      <point x="202" y="1576" type="line"/>
+      <point x="516" y="1888" type="line"/>
+      <point x="454" y="1954" type="line"/>
+      <point x="140" y="1690" type="line"/>
+      <point x="-98" y="1954" type="line"/>
+      <point x="-164" y="1888" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 15 values pushed */
+6 3 2 1 4 0 72 0 0 0 105 20 1 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

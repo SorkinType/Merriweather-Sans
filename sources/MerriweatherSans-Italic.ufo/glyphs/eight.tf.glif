@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.tf" format="2">
+  <advance width="1236"/>
+  <outline>
+    <contour>
+      <point x="548" y="-16" type="curve" smooth="yes"/>
+      <point x="834" y="-16"/>
+      <point x="1064" y="136"/>
+      <point x="1064" y="396" type="curve" smooth="yes"/>
+      <point x="1064" y="560"/>
+      <point x="936" y="668"/>
+      <point x="792" y="770" type="curve"/>
+      <point x="954" y="824"/>
+      <point x="1122" y="982"/>
+      <point x="1122" y="1190" type="curve" smooth="yes"/>
+      <point x="1122" y="1386"/>
+      <point x="952" y="1510"/>
+      <point x="730" y="1508" type="curve" smooth="yes"/>
+      <point x="486" y="1506"/>
+      <point x="266" y="1372"/>
+      <point x="266" y="1112" type="curve" smooth="yes"/>
+      <point x="266" y="964"/>
+      <point x="342" y="856"/>
+      <point x="446" y="768" type="curve"/>
+      <point x="264" y="696"/>
+      <point x="110" y="564"/>
+      <point x="110" y="344" type="curve" smooth="yes" name="hr00"/>
+      <point x="110" y="106"/>
+      <point x="328" y="-16"/>
+    </contour>
+    <contour>
+      <point x="580" y="132" type="curve" smooth="yes"/>
+      <point x="428" y="132"/>
+      <point x="328" y="232"/>
+      <point x="328" y="372" type="curve" smooth="yes"/>
+      <point x="328" y="530"/>
+      <point x="442" y="628"/>
+      <point x="564" y="692" type="curve"/>
+      <point x="718" y="584"/>
+      <point x="834" y="500"/>
+      <point x="834" y="360" type="curve" smooth="yes"/>
+      <point x="834" y="228"/>
+      <point x="726" y="132"/>
+    </contour>
+    <contour>
+      <point x="688" y="852" type="curve"/>
+      <point x="578" y="932"/>
+      <point x="488" y="1016"/>
+      <point x="488" y="1142" type="curve" smooth="yes"/>
+      <point x="488" y="1270"/>
+      <point x="582" y="1366"/>
+      <point x="712" y="1366" type="curve" smooth="yes"/>
+      <point x="814" y="1366"/>
+      <point x="906" y="1302"/>
+      <point x="906" y="1172" type="curve" smooth="yes"/>
+      <point x="906" y="1024"/>
+      <point x="810" y="910"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>618</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

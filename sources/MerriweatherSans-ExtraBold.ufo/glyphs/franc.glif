@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="1260"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="248" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="600" y="212" type="line"/>
+      <point x="862" y="212" type="line"/>
+      <point x="862" y="408" type="line"/>
+      <point x="600" y="408" type="line"/>
+      <point x="600" y="582" type="line"/>
+      <point x="1038" y="582" type="line"/>
+      <point x="1038" y="842" type="line"/>
+      <point x="600" y="842" type="line"/>
+      <point x="600" y="1224" type="line"/>
+      <point x="1164" y="1224" type="line"/>
+      <point x="1164" y="1486" type="line"/>
+      <point x="248" y="1486" type="line"/>
+      <point x="248" y="408" type="line"/>
+      <point x="82" y="408" type="line"/>
+      <point x="82" y="212" type="line"/>
+      <point x="248" y="212" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
+    </dict>
+  </lib>
+</glyph>

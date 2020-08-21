@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb.case" format="2">
+  <anchor x="-4" y="1486" name="_top"/>
+  <anchor x="-4" y="1728" name="top"/>
+  <outline>
+    <component base="commaturnedabovecomb"/>
+  </outline>
+</glyph>

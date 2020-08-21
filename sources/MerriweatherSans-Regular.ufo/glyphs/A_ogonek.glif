@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aogonek" format="2">
+  <advance width="1376"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="895" y="-296" type="curve"/>
+      <point x="898" y="-429"/>
+      <point x="1004" y="-501"/>
+      <point x="1138" y="-501" type="curve" smooth="yes"/>
+      <point x="1220" y="-501"/>
+      <point x="1312" y="-483"/>
+      <point x="1369" y="-441" type="curve"/>
+      <point x="1369" y="-320" type="line"/>
+      <point x="1325" y="-335"/>
+      <point x="1278" y="-347"/>
+      <point x="1235" y="-347" type="curve" smooth="yes"/>
+      <point x="1168" y="-347"/>
+      <point x="1113" y="-326"/>
+      <point x="1111" y="-246" type="curve"/>
+      <point x="1108" y="-151"/>
+      <point x="1218" y="-54"/>
+      <point x="1339" y="10" type="curve"/>
+      <point x="1296" y="32" type="line"/>
+      <point x="1155" y="3" type="line"/>
+      <point x="1038" y="-54"/>
+      <point x="892" y="-165"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>A</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.lf.zero" format="2">
+  <advance width="1364"/>
+  <outline>
+    <contour>
+      <point x="428" y="126" type="line" name="hr00"/>
+      <point x="546" y="104" type="line"/>
+      <point x="978" y="1328" type="line"/>
+      <point x="862" y="1354" type="line"/>
+    </contour>
+    <component base="zero.lf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>zero.lf</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>zero.lf</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero.lf</string>
+    </dict>
+  </lib>
+</glyph>

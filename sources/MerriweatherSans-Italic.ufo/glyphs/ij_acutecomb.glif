@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij_acutecomb" format="2">
+  <advance width="1163"/>
+  <outline>
+    <component base="iacute"/>
+    <component base="jdotless" xOffset="583"/>
+    <component base="acutecomb" xOffset="848"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>ij</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nj" format="2">
+  <advance width="2080"/>
+  <unicode hex="01CB"/>
+  <outline>
+    <component base="N"/>
+    <component base="jdotless" xOffset="1508"/>
+    <component base="dotaccent" xOffset="1606"/>
+  </outline>
+</glyph>

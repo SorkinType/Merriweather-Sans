@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.dnom" format="2">
+  <advance width="970"/>
+  <outline>
+    <contour>
+      <point x="84" y="220" type="line"/>
+      <point x="924" y="220" type="line"/>
+      <point x="924" y="338" type="line"/>
+      <point x="218" y="338" type="line"/>
+      <point x="282" y="442" type="line"/>
+      <point x="386" y="636"/>
+      <point x="520" y="908"/>
+      <point x="630" y="1114" type="curve"/>
+      <point x="440" y="1114" type="line"/>
+      <point x="310" y="854"/>
+      <point x="176" y="550"/>
+      <point x="48" y="292" type="curve"/>
+    </contour>
+    <contour>
+      <point x="592" y="0" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="746" y="700" type="line"/>
+      <point x="602" y="700" type="line"/>
+      <point x="592" y="338" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>73</integer>
+        <key>keepStroke</key>
+        <integer>90</integer>
+        <key>monoWidth</key>
+        <integer>620</integer>
+        <key>weight</key>
+        <integer>-6</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

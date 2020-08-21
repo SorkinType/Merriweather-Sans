@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex.case" format="2">
+  <note>
+circumflex.cap
+</note>
+  <anchor x="124" y="1494" name="_top"/>
+  <anchor x="174" y="1878" name="top"/>
+  <outline>
+    <contour>
+      <point x="-86" y="1562" type="line"/>
+      <point x="194" y="1724" type="line"/>
+      <point x="372" y="1562" type="line"/>
+      <point x="514" y="1638" type="line"/>
+      <point x="306" y="1966" type="line"/>
+      <point x="130" y="1966" type="line"/>
+      <point x="-232" y="1626" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 16 values pushed */
+6 5 4 3 2 5 0 71 0 0 0 105 16 1 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

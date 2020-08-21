@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="1000"/>
+  <unicode hex="006B"/>
+  <note>
+k
+</note>
+  <anchor x="426" y="0" name="bottom"/>
+  <anchor x="686" y="1966" name="top"/>
+  <outline>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="442" y="1598" type="line"/>
+      <point x="298" y="1598" type="line"/>
+    </contour>
+    <contour>
+      <point x="776" y="2" type="line"/>
+      <point x="944" y="2" type="line"/>
+      <point x="534" y="592" type="line"/>
+      <point x="752" y="696"/>
+      <point x="958" y="894"/>
+      <point x="980" y="1114" type="curve"/>
+      <point x="840" y="1114" type="line"/>
+      <point x="764" y="874"/>
+      <point x="604" y="750"/>
+      <point x="366" y="614" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 39 values pushed */
+9 6 2 0 3 1 74 4 1 1 1 19 75 0 3 3 20 75 2 1 0 0 18 0 76 0 0 17 16 8 7 0 3 0 3 17 5 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <note>
+uni0326
+</note>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="-52" y="-398" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-78" y="-654" type="line"/>
+      <point x="38" y="-636"/>
+      <point x="144" y="-494"/>
+      <point x="144" y="-346" type="curve" smooth="yes"/>
+      <point x="144" y="-246"/>
+      <point x="80" y="-154"/>
+      <point x="-10" y="-138" type="curve"/>
+      <point x="-162" y="-240" type="line"/>
+      <point x="-174" y="-330" type="line"/>
+      <point x="-136" y="-336"/>
+      <point x="-108" y="-380"/>
+      <point x="-108" y="-430" type="curve" smooth="yes"/>
+      <point x="-108" y="-510"/>
+      <point x="-138" y="-544"/>
+      <point x="-168" y="-562" type="curve"/>
+      <point x="-172" y="-586" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 4 values pushed */
+9 1 1 48 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

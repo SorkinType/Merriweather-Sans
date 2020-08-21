@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless.sc" format="2">
+  <advance width="700"/>
+  <anchor x="350" y="-546" name="bottom"/>
+  <anchor x="376" y="1792" name="top"/>
+  <outline>
+    <component base="j.sc"/>
+  </outline>
+</glyph>

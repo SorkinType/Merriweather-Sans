@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble" format="2">
+  <advance width="1402"/>
+  <unicode hex="20BD"/>
+  <anchor x="766" y="-166" name="btm"/>
+  <anchor x="774" y="1660" name="top"/>
+  <outline>
+    <contour>
+      <point x="276" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="512" y="556" type="line"/>
+      <point x="548" y="556"/>
+      <point x="606" y="552"/>
+      <point x="700" y="552" type="curve" smooth="yes"/>
+      <point x="1072" y="552"/>
+      <point x="1272" y="722"/>
+      <point x="1272" y="1038" type="curve" smooth="yes"/>
+      <point x="1272" y="1364"/>
+      <point x="1074" y="1502"/>
+      <point x="750" y="1502" type="curve" smooth="yes"/>
+      <point x="616" y="1502"/>
+      <point x="500" y="1486"/>
+      <point x="378" y="1486" type="curve" smooth="yes"/>
+      <point x="276" y="1486" type="line"/>
+    </contour>
+    <contour>
+      <point x="512" y="736" type="curve"/>
+      <point x="512" y="1316" type="line"/>
+      <point x="564" y="1328"/>
+      <point x="626" y="1332"/>
+      <point x="684" y="1334" type="curve" smooth="yes"/>
+      <point x="914" y="1342"/>
+      <point x="1040" y="1250"/>
+      <point x="1040" y="1038" type="curve" smooth="yes"/>
+      <point x="1040" y="764"/>
+      <point x="872" y="726"/>
+      <point x="686" y="726" type="curve" smooth="yes"/>
+      <point x="632" y="726"/>
+      <point x="572" y="726"/>
+    </contour>
+    <contour>
+      <point x="108" y="196" type="line"/>
+      <point x="968" y="196" type="line"/>
+      <point x="968" y="382" type="line"/>
+      <point x="108" y="382" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
+    </dict>
+  </lib>
+</glyph>

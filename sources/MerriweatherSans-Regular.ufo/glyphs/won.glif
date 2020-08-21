@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance width="2322"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="276" y="342" type="line"/>
+      <point x="634" y="342" type="line"/>
+      <point x="632" y="528" type="line"/>
+      <point x="274" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="1114" type="line"/>
+      <point x="180" y="1114" type="line"/>
+      <point x="182" y="930" type="line"/>
+      <point x="522" y="930" type="line"/>
+    </contour>
+    <contour>
+      <point x="1686" y="340" type="line"/>
+      <point x="2044" y="340" type="line"/>
+      <point x="2042" y="526" type="line"/>
+      <point x="1684" y="526" type="line"/>
+    </contour>
+    <contour>
+      <point x="2140" y="1112" type="line"/>
+      <point x="1816" y="1112" type="line"/>
+      <point x="1818" y="928" type="line"/>
+      <point x="2142" y="928" type="line"/>
+    </contour>
+    <component base="W" xOffset="220"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>W</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
