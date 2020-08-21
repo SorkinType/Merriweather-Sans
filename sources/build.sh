@@ -29,6 +29,12 @@ do
 done
 rm ../fonts/variable/*gasp.ttf
 
+gftools fix-vf-meta $vfs
+for vf in $vfs
+do
+	mv $vf.fix $vf
+done
+
 echo "Dropping MVAR"
 for vf in $vfs
 do
