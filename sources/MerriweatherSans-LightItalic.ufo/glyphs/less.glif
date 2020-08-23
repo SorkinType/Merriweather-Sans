@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="1336"/>
+  <unicode hex="003C"/>
+  <note>
+less
+</note>
+  <outline>
+    <contour>
+      <point x="1060" y="172" type="line"/>
+      <point x="1074" y="304" type="line"/>
+      <point x="360" y="726" type="line"/>
+      <point x="1172" y="1148" type="line"/>
+      <point x="1192" y="1292" type="line"/>
+      <point x="204" y="782" type="line"/>
+      <point x="192" y="686" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 4 values pushed */
+4 0 1 48 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

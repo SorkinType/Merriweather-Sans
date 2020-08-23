@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb.case" format="2">
+  <anchor x="0" y="1660" name="_top"/>
+  <anchor x="24" y="2480" name="top"/>
+  <outline>
+    <contour>
+      <point x="-216" y="1582" type="line"/>
+      <point x="0" y="1779" type="line"/>
+      <point x="213" y="1582" type="line"/>
+      <point x="357" y="1645" type="line"/>
+      <point x="98" y="1939" type="line"/>
+      <point x="-98" y="1939" type="line"/>
+      <point x="-354" y="1643" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="2032" type="curve" smooth="yes"/>
+      <point x="244" y="2032"/>
+      <point x="313" y="2116"/>
+      <point x="338" y="2225" type="curve"/>
+      <point x="256" y="2269" type="line"/>
+      <point x="234" y="2220"/>
+      <point x="218" y="2174"/>
+      <point x="155" y="2175" type="curve" smooth="yes"/>
+      <point x="71" y="2177"/>
+      <point x="43" y="2302"/>
+      <point x="-97" y="2302" type="curve" smooth="yes"/>
+      <point x="-200" y="2302"/>
+      <point x="-270" y="2217"/>
+      <point x="-294" y="2113" type="curve"/>
+      <point x="-212" y="2066" type="line"/>
+      <point x="-190" y="2115"/>
+      <point x="-171" y="2162"/>
+      <point x="-110" y="2161" type="curve" smooth="yes"/>
+      <point x="-26" y="2159"/>
+      <point x="3" y="2032"/>
+    </contour>
+  </outline>
+</glyph>

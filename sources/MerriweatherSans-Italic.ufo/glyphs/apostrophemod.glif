@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophemod" format="2">
+  <advance width="671"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <component base="quoteright"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>quoteright</string>
+    </dict>
+  </lib>
+</glyph>

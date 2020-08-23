@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tosf" format="2">
+  <advance width="1354"/>
+  <outline>
+    <contour>
+      <point x="290" y="-286" type="curve"/>
+      <point x="650" y="-384" type="line"/>
+      <point x="1252" y="1130" type="line"/>
+      <point x="1172" y="1244" type="line"/>
+      <point x="128" y="1244" type="line"/>
+      <point x="128" y="910" type="line"/>
+      <point x="844" y="908" type="line"/>
+      <point x="750" y="712"/>
+      <point x="440" y="-24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>677</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

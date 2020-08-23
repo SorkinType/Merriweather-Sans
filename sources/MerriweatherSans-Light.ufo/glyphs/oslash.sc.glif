@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.sc" format="2">
+  <advance width="1482"/>
+  <anchor x="742" y="0" name="bottom"/>
+  <anchor x="744" y="1792" name="top"/>
+  <outline>
+    <contour>
+      <point x="470" y="-168" type="line"/>
+      <point x="1110" y="1446" type="line"/>
+      <point x="1016" y="1474" type="line"/>
+      <point x="376" y="-140" type="line"/>
+    </contour>
+    <contour>
+      <point x="736" y="-14" type="curve" smooth="yes"/>
+      <point x="1094" y="-8"/>
+      <point x="1364" y="214"/>
+      <point x="1374" y="648" type="curve" smooth="yes"/>
+      <point x="1384" y="1046"/>
+      <point x="1142" y="1306"/>
+      <point x="764" y="1306" type="curve" smooth="yes"/>
+      <point x="402" y="1306"/>
+      <point x="116" y="1086"/>
+      <point x="106" y="654" type="curve" smooth="yes"/>
+      <point x="98" y="264"/>
+      <point x="342" y="-22"/>
+    </contour>
+    <contour>
+      <point x="740" y="116" type="curve" smooth="yes"/>
+      <point x="430" y="116"/>
+      <point x="274" y="368"/>
+      <point x="276" y="644" type="curve" smooth="yes"/>
+      <point x="278" y="1006"/>
+      <point x="490" y="1178"/>
+      <point x="758" y="1178" type="curve" smooth="yes"/>
+      <point x="1054" y="1178"/>
+      <point x="1208" y="934"/>
+      <point x="1206" y="656" type="curve" smooth="yes"/>
+      <point x="1204" y="306"/>
+      <point x="1016" y="116"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

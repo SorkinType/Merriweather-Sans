@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="1332"/>
+  <unicode hex="00B5"/>
+  <note>
+uni00B5
+</note>
+  <outline>
+    <contour>
+      <point x="50" y="-364" type="line"/>
+      <point x="376" y="-364" type="line"/>
+      <point x="440" y="58" type="line"/>
+      <point x="466" y="4"/>
+      <point x="550" y="-16"/>
+      <point x="612" y="-16" type="curve" smooth="yes"/>
+      <point x="702" y="-16"/>
+      <point x="774" y="26"/>
+      <point x="828" y="120" type="curve"/>
+      <point x="850" y="16"/>
+      <point x="910" y="-18"/>
+      <point x="1020" y="-18" type="curve" smooth="yes"/>
+      <point x="1170" y="-18"/>
+      <point x="1250" y="52"/>
+      <point x="1328" y="130" type="curve"/>
+      <point x="1252" y="260" type="line"/>
+      <point x="1228" y="222"/>
+      <point x="1178" y="190"/>
+      <point x="1144" y="190" type="curve" smooth="yes"/>
+      <point x="1126" y="190"/>
+      <point x="1108" y="216"/>
+      <point x="1112" y="250" type="curve" smooth="yes"/>
+      <point x="1142" y="504"/>
+      <point x="1176" y="752"/>
+      <point x="1218" y="1114" type="curve"/>
+      <point x="876" y="1114" type="line"/>
+      <point x="784" y="404" type="line" smooth="yes"/>
+      <point x="772" y="312"/>
+      <point x="674" y="236"/>
+      <point x="612" y="236" type="curve" smooth="yes"/>
+      <point x="542" y="236"/>
+      <point x="508" y="280"/>
+      <point x="508" y="370" type="curve" smooth="yes"/>
+      <point x="508" y="414"/>
+      <point x="578" y="924"/>
+      <point x="578" y="960" type="curve" smooth="yes"/>
+      <point x="578" y="1072"/>
+      <point x="492" y="1128"/>
+      <point x="370" y="1128" type="curve" smooth="yes"/>
+      <point x="250" y="1128"/>
+      <point x="96" y="1050"/>
+      <point x="50" y="1004" type="curve"/>
+      <point x="98" y="844" type="line"/>
+      <point x="128" y="874"/>
+      <point x="150" y="888"/>
+      <point x="182" y="888" type="curve" smooth="yes"/>
+      <point x="214" y="888"/>
+      <point x="218" y="816"/>
+      <point x="210" y="782" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+31 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 20 values pushed */
+19 10 2 0 1 39 31 9 1 4 2 0 53 47 40 3 5 4 3 74 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 20 values pushed */
+19 10 2 0 3 39 31 9 1 4 2 0 53 47 40 3 5 4 3 74 
+EIF[ ]	/* EndIf */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+31 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 40 values pushed */
+0 0 1 2 1 0 2 112 0 4 2 5 2 4 5 112 0 2 2 5 91 6 1 5 5 26 75 8 1 7 7 1 91 3 1 1 1 28 7 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 44 values pushed */
+0 0 3 2 3 0 2 112 0 4 2 5 2 4 5 112 0 3 3 20 75 0 2 2 5 91 6 1 5 5 26 75 8 1 7 7 1 91 0 1 1 28 7 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 16 values pushed */
+0 0 0 54 0 54 36 38 37 20 40 38 37 9 7 27 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

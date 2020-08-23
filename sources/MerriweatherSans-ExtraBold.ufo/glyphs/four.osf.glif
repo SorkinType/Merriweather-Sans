@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.osf" format="2">
+  <advance width="1418"/>
+  <outline>
+    <contour>
+      <point x="162" y="0" type="line"/>
+      <point x="1366" y="0" type="line"/>
+      <point x="1366" y="256" type="line"/>
+      <point x="472" y="256" type="line"/>
+      <point x="568" y="420" type="line"/>
+      <point x="704" y="672"/>
+      <point x="842" y="924"/>
+      <point x="978" y="1176" type="curve"/>
+      <point x="694" y="1310" type="line"/>
+      <point x="620" y="1310" type="line"/>
+      <point x="440" y="916"/>
+      <point x="258" y="522"/>
+      <point x="78" y="128" type="curve"/>
+    </contour>
+    <contour>
+      <point x="802" y="-368" type="line"/>
+      <point x="1150" y="-368" type="line"/>
+      <point x="1150" y="620" type="line"/>
+      <point x="838" y="620" type="line"/>
+      <point x="802" y="256" type="line"/>
+    </contour>
+  </outline>
+</glyph>

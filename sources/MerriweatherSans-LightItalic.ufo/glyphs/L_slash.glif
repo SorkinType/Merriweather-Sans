@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="956"/>
+  <unicode hex="0141"/>
+  <note>
+Lslash
+</note>
+  <outline>
+    <contour>
+      <point x="205" y="621" type="line"/>
+      <point x="333" y="673" type="line"/>
+      <point x="809" y="879" type="line"/>
+      <point x="783" y="975" type="line"/>
+      <point x="347" y="783" type="line"/>
+      <point x="219" y="729" type="line"/>
+      <point x="-15" y="627" type="line"/>
+      <point x="13" y="539" type="line"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 37 values pushed */
+10 9 4 3 4 2 1 1 74 0 1 1 17 75 3 1 2 2 0 89 0 0 0 18 0 76 0 0 0 13 0 13 21 17 4 7 22 
+CALL[ ]	/* CallFunction */</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

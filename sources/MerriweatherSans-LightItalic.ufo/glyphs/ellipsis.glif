@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="1474"/>
+  <unicode hex="2026"/>
+  <note>
+ellipsis
+</note>
+  <outline>
+    <component base="period"/>
+    <component base="period" xOffset="514" yOffset="2"/>
+    <component base="period" xOffset="1026" yOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 50 values pushed */
+39 1 0 1 1 74 8 5 7 3 6 5 1 1 0 91 4 2 2 0 0 26 0 76 28 28 14 14 0 0 28 42 28 41 35 33 14 27 14 26 21 19 0 13 0 12 37 9 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

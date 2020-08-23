@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.osf" format="2">
+  <advance width="1038"/>
+  <note>
+seven
+</note>
+  <outline>
+    <contour>
+      <point x="406" y="-308" type="line"/>
+      <point x="1008" y="1084" type="line"/>
+      <point x="984" y="1118" type="line"/>
+      <point x="122" y="1118" type="line"/>
+      <point x="96" y="998" type="line"/>
+      <point x="842" y="1000" type="line"/>
+      <point x="272" y="-258" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 26 values pushed */
+5 1 1 71 2 1 1 1 0 89 0 0 0 20 1 76 0 0 0 6 0 6 17 3 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

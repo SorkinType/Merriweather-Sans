@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <note>
+caron
+</note>
+  <anchor x="124" y="1494" name="_top"/>
+  <anchor x="186" y="1952" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="1634" type="line"/>
+      <point x="212" y="1634" type="line"/>
+      <point x="540" y="1956" type="line"/>
+      <point x="478" y="2020" type="line"/>
+      <point x="152" y="1748" type="line"/>
+      <point x="-90" y="2020" type="line"/>
+      <point x="-156" y="1956" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 15 values pushed */
+6 3 2 1 4 0 72 0 0 0 105 20 1 7 21 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+    </dict>
+  </lib>
+</glyph>

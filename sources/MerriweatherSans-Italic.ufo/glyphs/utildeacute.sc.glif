@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utildeacute.sc" format="2">
+  <advance width="1264"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="tildecomb" xOffset="656" yOffset="166"/>
+    <component base="acutecomb" xOffset="659" yOffset="541"/>
+  </outline>
+</glyph>

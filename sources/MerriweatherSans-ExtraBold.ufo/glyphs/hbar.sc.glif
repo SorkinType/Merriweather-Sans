@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar.sc" format="2">
+  <advance width="1558"/>
+  <outline>
+    <contour>
+      <point x="164" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="454" type="line"/>
+      <point x="1016" y="454" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="1394" y="0" type="line"/>
+      <point x="1394" y="1292" type="line"/>
+      <point x="1016" y="1292" type="line"/>
+      <point x="1016" y="712" type="line"/>
+      <point x="542" y="712" type="line"/>
+      <point x="542" y="1292" type="line"/>
+      <point x="164" y="1292" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="868" type="line"/>
+      <point x="1528" y="868" type="line"/>
+      <point x="1528" y="1082" type="line"/>
+      <point x="34" y="1082" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

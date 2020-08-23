@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ_acutecomb" format="2">
+  <advance width="1370"/>
+  <note>
+IJ_acutecomb
+</note>
+  <outline>
+    <component base="IJ"/>
+    <component base="acutecomb.case" xOffset="350"/>
+    <component base="acutecomb.case" xOffset="976" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 9 values pushed */
+13 12 8 6 5 1 6 1 72 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+8 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 20 values pushed */
+0 2 0 0 2 103 5 3 4 3 1 1 17 75 0 0 0 18 0 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 19 values pushed */
+0 2 0 2 115 5 3 4 3 1 1 17 75 0 0 0 18 0 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 18 values pushed */
+18 18 14 14 18 37 18 37 27 26 14 17 14 17 31 6 7 21 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>acutecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

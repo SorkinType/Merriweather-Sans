@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_l" format="2">
+  <advance width="1906"/>
+  <note>
+f_f_l
+</note>
+  <anchor x="522" y="0" name="caret_1"/>
+  <anchor x="1236" y="0" name="caret_2"/>
+  <outline>
+    <component base="f"/>
+    <component base="f" xOffset="678"/>
+    <component base="l" xOffset="1356"/>
+  </outline>
+</glyph>

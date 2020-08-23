@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="1328"/>
+  <unicode hex="0172"/>
+  <note>
+Uogonek
+</note>
+  <outline>
+    <component base="U"/>
+    <component base="ogonekcomb.case" xOffset="836"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 53 values pushed */
+23 1 2 4 12 1 0 2 13 1 1 0 3 74 0 0 0 1 0 1 95 6 5 2 3 3 17 75 0 4 4 2 91 0 2 2 26 2 76 0 0 0 43 0 43 37 21 39 36 41 7 7 25 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

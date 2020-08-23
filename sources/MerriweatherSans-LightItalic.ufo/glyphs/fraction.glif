@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="384"/>
+  <unicode hex="2044"/>
+  <note>
+fraction
+</note>
+  <outline>
+    <contour>
+      <point x="658" y="1896" type="line"/>
+      <point x="-260" y="-102" type="line"/>
+      <point x="-122" y="-102" type="line"/>
+      <point x="796" y="1896" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 22 values pushed */
+2 1 1 1 17 75 0 0 0 18 0 76 0 0 0 3 0 3 17 3 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance width="1298"/>
+  <unicode hex="20A1"/>
+  <note>
+colonmonetary
+</note>
+  <outline>
+    <contour>
+      <point x="348" y="-346" type="line"/>
+      <point x="436" y="-346" type="line"/>
+      <point x="506" y="4" type="line"/>
+      <point x="554" y="-10"/>
+      <point x="602" y="-16"/>
+      <point x="662" y="-16" type="curve"/>
+      <point x="598" y="-346" type="line"/>
+      <point x="684" y="-346" type="line"/>
+      <point x="750" y="-12" type="line"/>
+      <point x="918" y="2"/>
+      <point x="1058" y="50"/>
+      <point x="1116" y="108" type="curve"/>
+      <point x="1074" y="204" type="line"/>
+      <point x="990" y="148"/>
+      <point x="890" y="114"/>
+      <point x="772" y="100" type="curve"/>
+      <point x="1028" y="1386" type="line"/>
+      <point x="1098" y="1376"/>
+      <point x="1150" y="1356"/>
+      <point x="1176" y="1338" type="curve"/>
+      <point x="1222" y="1458" type="line"/>
+      <point x="1164" y="1476"/>
+      <point x="1106" y="1490"/>
+      <point x="1050" y="1500" type="curve"/>
+      <point x="1104" y="1772" type="line"/>
+      <point x="1016" y="1772" type="line"/>
+      <point x="964" y="1508" type="line"/>
+      <point x="926" y="1510"/>
+      <point x="852" y="1510"/>
+      <point x="802" y="1502" type="curve"/>
+      <point x="856" y="1772" type="line"/>
+      <point x="766" y="1772" type="line"/>
+      <point x="710" y="1484" type="line"/>
+      <point x="346" y="1386"/>
+      <point x="142" y="1048"/>
+      <point x="142" y="638" type="curve" smooth="yes"/>
+      <point x="142" y="400"/>
+      <point x="228" y="148"/>
+      <point x="424" y="40" type="curve"/>
+    </contour>
+    <contour>
+      <point x="298" y="642" type="curve" smooth="yes"/>
+      <point x="298" y="964"/>
+      <point x="412" y="1268"/>
+      <point x="686" y="1366" type="curve"/>
+      <point x="450" y="174" type="line"/>
+      <point x="348" y="268"/>
+      <point x="298" y="436"/>
+    </contour>
+    <contour>
+      <point x="684" y="94" type="line"/>
+      <point x="630" y="94"/>
+      <point x="582" y="100"/>
+      <point x="530" y="124" type="curve"/>
+      <point x="780" y="1390" type="line"/>
+      <point x="818" y="1398"/>
+      <point x="896" y="1400"/>
+      <point x="942" y="1396" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 21 values pushed */
+25 18 16 3 6 3 56 47 11 9 8 5 7 6 39 36 2 0 7 3 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+8 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 35 values pushed */
+4 1 2 3 3 2 102 5 1 1 0 0 1 103 0 6 6 3 91 0 3 3 25 75 0 7 7 0 91 0 0 0 26 0 76 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+10 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 34 values pushed */
+4 1 2 3 3 2 102 5 1 1 0 1 115 0 6 6 3 91 0 3 3 25 75 0 7 7 0 91 0 0 0 26 0 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 33 values pushed */
+4 1 2 3 2 114 5 1 1 0 1 115 0 6 6 3 91 0 3 3 25 75 0 7 7 0 91 0 0 0 26 0 76 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 11 values pushed */
+33 50 26 18 49 31 18 16 8 7 28 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>cedi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>cedi</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn.sc" format="2">
+  <advance width="1206"/>
+  <anchor x="598" y="0" name="bottom"/>
+  <anchor x="598" y="1292" name="top"/>
+  <outline>
+    <contour>
+      <point x="408" y="1292" type="line"/>
+      <point x="172" y="1292" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="396" y="236" type="line"/>
+      <point x="432" y="234"/>
+      <point x="494" y="226"/>
+      <point x="584" y="226" type="curve" smooth="yes"/>
+      <point x="940" y="226"/>
+      <point x="1128" y="396"/>
+      <point x="1128" y="680" type="curve" smooth="yes"/>
+      <point x="1128" y="954"/>
+      <point x="948" y="1082"/>
+      <point x="628" y="1082" type="curve" smooth="yes"/>
+      <point x="520" y="1082"/>
+      <point x="416" y="1070"/>
+      <point x="334" y="1070" type="curve"/>
+      <point x="394" y="890" type="line"/>
+      <point x="438" y="904"/>
+      <point x="516" y="908"/>
+      <point x="556" y="910" type="curve" smooth="yes"/>
+      <point x="770" y="916"/>
+      <point x="894" y="844"/>
+      <point x="894" y="676" type="curve" smooth="yes"/>
+      <point x="894" y="446"/>
+      <point x="736" y="402"/>
+      <point x="558" y="402" type="curve" smooth="yes"/>
+      <point x="506" y="402"/>
+      <point x="452" y="404"/>
+      <point x="396" y="412" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

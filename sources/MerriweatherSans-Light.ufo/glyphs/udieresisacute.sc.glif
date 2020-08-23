@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisacute.sc" format="2">
+  <advance width="1390"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="dieresiscomb" xOffset="706" yOffset="140"/>
+    <component base="acutecomb" xOffset="706" yOffset="484"/>
+  </outline>
+</glyph>

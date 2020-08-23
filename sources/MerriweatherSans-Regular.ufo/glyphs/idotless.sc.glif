@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless.sc" format="2">
+  <advance width="633"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="570" y="20" name="ogonek"/>
+  <anchor x="316" y="1800" name="top"/>
+  <anchor x="40" y="1292" name="topleft"/>
+  <outline>
+    <component base="i.sc"/>
+  </outline>
+</glyph>

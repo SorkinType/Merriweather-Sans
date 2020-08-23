@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s.sc" format="2">
+  <advance width="1174"/>
+  <anchor x="572" y="0" name="bottom"/>
+  <anchor x="562" y="-144" name="btm"/>
+  <anchor x="602" y="1784" name="top"/>
+  <outline>
+    <contour>
+      <point x="568" y="-14" type="curve" smooth="yes"/>
+      <point x="908" y="-14"/>
+      <point x="1094" y="152"/>
+      <point x="1094" y="382" type="curve" smooth="yes"/>
+      <point x="1094" y="586"/>
+      <point x="950" y="686"/>
+      <point x="702" y="784" type="curve" smooth="yes"/>
+      <point x="520" y="856"/>
+      <point x="460" y="892"/>
+      <point x="460" y="950" type="curve" smooth="yes"/>
+      <point x="460" y="996"/>
+      <point x="514" y="1038"/>
+      <point x="648" y="1038" type="curve" smooth="yes"/>
+      <point x="766" y="1038"/>
+      <point x="910" y="994"/>
+      <point x="968" y="952" type="curve"/>
+      <point x="1024" y="1230" type="line"/>
+      <point x="972" y="1256"/>
+      <point x="834" y="1306"/>
+      <point x="612" y="1306" type="curve" smooth="yes"/>
+      <point x="302" y="1306"/>
+      <point x="100" y="1174"/>
+      <point x="100" y="944" type="curve" smooth="yes"/>
+      <point x="100" y="726"/>
+      <point x="250" y="618"/>
+      <point x="434" y="538" type="curve" smooth="yes"/>
+      <point x="654" y="442"/>
+      <point x="718" y="420"/>
+      <point x="718" y="356" type="curve" smooth="yes"/>
+      <point x="718" y="298"/>
+      <point x="664" y="272"/>
+      <point x="536" y="272" type="curve" smooth="yes"/>
+      <point x="388" y="272"/>
+      <point x="224" y="322"/>
+      <point x="154" y="358" type="curve"/>
+      <point x="110" y="68" type="line"/>
+      <point x="166" y="36"/>
+      <point x="364" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="1790"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="128" y="342" type="line"/>
+      <point x="440" y="342" type="line"/>
+      <point x="438" y="484" type="line"/>
+      <point x="126" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="1114" type="line"/>
+      <point x="116" y="1114" type="line"/>
+      <point x="118" y="964" type="line"/>
+      <point x="428" y="964" type="line"/>
+    </contour>
+    <contour>
+      <point x="1324" y="340" type="line"/>
+      <point x="1642" y="340" type="line"/>
+      <point x="1640" y="482" type="line"/>
+      <point x="1322" y="482" type="line"/>
+    </contour>
+    <contour>
+      <point x="1628" y="1112" type="line"/>
+      <point x="1312" y="1112" type="line"/>
+      <point x="1314" y="962" type="line"/>
+      <point x="1630" y="962" type="line"/>
+    </contour>
+    <component base="N" xOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
+    </dict>
+  </lib>
+</glyph>

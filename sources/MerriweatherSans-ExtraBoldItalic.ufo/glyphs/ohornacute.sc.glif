@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornacute.sc" format="2">
+  <advance width="1448"/>
+  <outline>
+    <component base="ohorn.sc"/>
+    <component base="acutecomb" xOffset="638" yOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ohorn.sc</string>
+    </dict>
+  </lib>
+</glyph>

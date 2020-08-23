@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb.case" format="2">
+  <anchor x="124" y="1494" name="_top"/>
+  <anchor x="186" y="1952" name="top"/>
+  <outline>
+    <contour>
+      <point x="-122" y="1606" type="line"/>
+      <point x="184" y="1878" type="line"/>
+      <point x="384" y="1610" type="line"/>
+      <point x="468" y="1662" type="line"/>
+      <point x="270" y="2010" type="line"/>
+      <point x="136" y="2010" type="line"/>
+      <point x="-196" y="1662" type="line"/>
+    </contour>
+    <contour>
+      <point x="504" y="1916" type="line"/>
+      <point x="598" y="1968"/>
+      <point x="768" y="2056"/>
+      <point x="820" y="2138" type="curve"/>
+      <point x="742" y="2234" type="line"/>
+      <point x="452" y="1988" type="line"/>
+    </contour>
+  </outline>
+</glyph>

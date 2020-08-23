@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="1464"/>
+  <unicode hex="0048"/>
+  <note>
+H
+</note>
+  <anchor x="648" y="0" name="bottom"/>
+  <anchor x="842" y="1494" name="top"/>
+  <outline>
+    <contour>
+      <point x="58" y="0" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="492" y="608" type="line"/>
+      <point x="962" y="608" type="line"/>
+      <point x="876" y="0" type="line"/>
+      <point x="1224" y="0" type="line"/>
+      <point x="1438" y="1494" type="line"/>
+      <point x="1088" y="1494" type="line"/>
+      <point x="996" y="846" type="line"/>
+      <point x="526" y="846" type="line"/>
+      <point x="618" y="1494" type="line"/>
+      <point x="272" y="1494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 36 values pushed */
+0 4 0 1 0 4 1 98 6 5 2 3 3 17 75 2 1 0 0 18 0 76 0 0 0 11 0 11 17 17 17 17 17 7 7 25 
+CALL[ ]	/* CallFunction */</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

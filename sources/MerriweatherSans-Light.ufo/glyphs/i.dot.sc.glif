@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.dot.sc" format="2">
+  <advance width="586"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="528" y="20" name="ogonek"/>
+  <anchor x="294" y="1292" name="top"/>
+  <anchor x="40" y="1292" name="topleft"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="dotaccentcomb" xOffset="294" yOffset="140"/>
+  </outline>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="722"/>
+  <unicode hex="0165"/>
+  <note>
+tcaron
+</note>
+  <outline>
+    <contour>
+      <point x="714" y="1220" type="line"/>
+      <point x="784" y="1318"/>
+      <point x="834" y="1484"/>
+      <point x="840" y="1622" type="curve"/>
+      <point x="840" y="1702"/>
+      <point x="840" y="1786"/>
+      <point x="812" y="1846" type="curve"/>
+      <point x="682" y="1812" type="line"/>
+      <point x="676" y="1788" type="line"/>
+      <point x="692" y="1762"/>
+      <point x="704" y="1698"/>
+      <point x="704" y="1620" type="curve" smooth="yes"/>
+      <point x="704" y="1514"/>
+      <point x="680" y="1398"/>
+      <point x="634" y="1268" type="curve"/>
+      <point x="638" y="1248" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

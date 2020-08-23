@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tosf" format="2">
+  <advance width="1354"/>
+  <outline>
+    <contour>
+      <point x="670" y="-16" type="curve" smooth="yes"/>
+      <point x="1014" y="-16"/>
+      <point x="1250" y="282"/>
+      <point x="1252" y="672" type="curve" smooth="yes"/>
+      <point x="1254" y="1048"/>
+      <point x="1132" y="1384"/>
+      <point x="692" y="1384" type="curve" smooth="yes"/>
+      <point x="344" y="1384"/>
+      <point x="106" y="1108"/>
+      <point x="102" y="688" type="curve" smooth="yes"/>
+      <point x="98" y="352"/>
+      <point x="242" y="-16"/>
+    </contour>
+    <contour>
+      <point x="678" y="230" type="curve" smooth="yes"/>
+      <point x="526" y="234"/>
+      <point x="460" y="490"/>
+      <point x="460" y="698" type="curve" smooth="yes"/>
+      <point x="460" y="960"/>
+      <point x="536" y="1138"/>
+      <point x="680" y="1138" type="curve" smooth="yes"/>
+      <point x="828" y="1138"/>
+      <point x="892" y="980"/>
+      <point x="892" y="666" type="curve" smooth="yes"/>
+      <point x="892" y="430"/>
+      <point x="820" y="228"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>monoWidth</key>
+        <integer>677</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

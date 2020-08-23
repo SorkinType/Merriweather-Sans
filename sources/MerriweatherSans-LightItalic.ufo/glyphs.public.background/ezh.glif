@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ezh" format="2">
+  <outline>
+    <component base="z" xOffset="-20"/>
+    <component base="three" xOffset="-72" yOffset="-142"/>
+  </outline>
+</glyph>

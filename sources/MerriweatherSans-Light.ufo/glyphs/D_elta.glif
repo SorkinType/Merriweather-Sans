@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="1540"/>
+  <unicode hex="0394"/>
+  <unicode hex="03B4"/>
+  <outline>
+    <component base="increment"/>
+  </outline>
+</glyph>

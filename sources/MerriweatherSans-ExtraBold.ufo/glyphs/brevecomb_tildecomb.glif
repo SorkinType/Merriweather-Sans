@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="0" y="1660" name="_top"/>
+  <anchor x="24" y="2034" name="top"/>
+  <outline>
+    <contour>
+      <point x="26" y="1258" type="curve" smooth="yes"/>
+      <point x="268" y="1258"/>
+      <point x="402" y="1402"/>
+      <point x="400" y="1618" type="curve"/>
+      <point x="186" y="1618" type="line"/>
+      <point x="178" y="1572"/>
+      <point x="160" y="1482"/>
+      <point x="26" y="1482" type="curve" smooth="yes"/>
+      <point x="-110" y="1482"/>
+      <point x="-128" y="1572"/>
+      <point x="-132" y="1618" type="curve"/>
+      <point x="-350" y="1618" type="line"/>
+      <point x="-354" y="1402"/>
+      <point x="-228" y="1258"/>
+    </contour>
+    <contour>
+      <point x="142" y="1712" type="curve" smooth="yes"/>
+      <point x="248" y="1712"/>
+      <point x="364" y="1816"/>
+      <point x="364" y="1962" type="curve"/>
+      <point x="252" y="2002" type="line"/>
+      <point x="224" y="1926"/>
+      <point x="190" y="1908"/>
+      <point x="148" y="1908" type="curve" smooth="yes"/>
+      <point x="72" y="1908"/>
+      <point x="24" y="2034"/>
+      <point x="-102" y="2034" type="curve" smooth="yes"/>
+      <point x="-208" y="2034"/>
+      <point x="-324" y="1932"/>
+      <point x="-324" y="1786" type="curve"/>
+      <point x="-212" y="1746" type="line"/>
+      <point x="-184" y="1816"/>
+      <point x="-154" y="1840"/>
+      <point x="-108" y="1840" type="curve" smooth="yes"/>
+      <point x="-30" y="1840"/>
+      <point x="16" y="1712"/>
+    </contour>
+  </outline>
+</glyph>

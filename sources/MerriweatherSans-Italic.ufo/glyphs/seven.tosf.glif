@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tosf" format="2">
+  <advance width="1187"/>
+  <outline>
+    <contour>
+      <point x="496" y="-319" type="line"/>
+      <point x="1090" y="1071" type="line"/>
+      <point x="1055" y="1119" type="line"/>
+      <point x="166" y="1119" type="line"/>
+      <point x="133" y="937" type="line"/>
+      <point x="841" y="940" type="line"/>
+      <point x="290" y="-243" type="line" name="hr00"/>
+    </contour>
+  </outline>
+</glyph>

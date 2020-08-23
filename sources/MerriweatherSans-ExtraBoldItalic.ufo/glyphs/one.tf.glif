@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tf" format="2">
+  <advance width="1236"/>
+  <outline>
+    <contour>
+      <point x="416" y="6" type="line"/>
+      <point x="760" y="6" type="line"/>
+      <point x="990" y="1486" type="line"/>
+      <point x="808" y="1510" type="line"/>
+      <point x="804" y="1510" type="line"/>
+      <point x="644" y="1398"/>
+      <point x="354" y="1314"/>
+      <point x="174" y="1292" type="curve"/>
+      <point x="212" y="1066" type="line"/>
+      <point x="356" y="1064"/>
+      <point x="472" y="1092"/>
+      <point x="598" y="1132" type="curve"/>
+    </contour>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="1102" y="0" type="line"/>
+      <point x="1138" y="244" type="line"/>
+      <point x="96" y="244" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>keepStroke</key>
+        <integer>70</integer>
+        <key>monoWidth</key>
+        <integer>618</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

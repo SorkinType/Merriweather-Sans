@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe" format="2">
+  <advance width="1766"/>
+  <unicode hex="0153"/>
+  <note>
+oe
+</note>
+  <outline>
+    <component base="o"/>
+    <component base="e" xOffset="760"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 80 values pushed */
+46 23 2 8 6 42 10 3 2 4 5 4 2 74 0 8 0 4 5 8 4 99 12 9 2 6 6 2 91 3 1 2 2 28 75 11 7 10 3 5 5 0 91 1 1 0 0 26 0 76 59 59 40 40 0 0 59 69 59 68 63 62 40 58 40 57 52 50 0 39 0 38 22 36 37 36 38 13 7 25 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

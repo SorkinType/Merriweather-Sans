@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="650"/>
+  <unicode hex="0142"/>
+  <note>
+lslash
+</note>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="430" y="0" type="line"/>
+      <point x="544" y="838" type="line"/>
+      <point x="744" y="916" type="line"/>
+      <point x="744" y="1120" type="line"/>
+      <point x="572" y="1048" type="line"/>
+      <point x="646" y="1596" type="line"/>
+      <point x="296" y="1596" type="line"/>
+      <point x="202" y="898" type="line"/>
+      <point x="10" y="820" type="line"/>
+      <point x="10" y="626" type="line"/>
+      <point x="174" y="692" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 11 values pushed */
+11 10 6 5 4 0 6 0 1 1 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+33 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 19 75 0 0 0 18 0 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 0 89 0 0 0 18 0 76 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 5 values pushed */
+21 18 2 7 22 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

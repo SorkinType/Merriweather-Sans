@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf" format="2">
+  <advance width="896"/>
+  <note>
+one
+</note>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="770" y="1126" type="line"/>
+      <point x="536" y="1134" type="line"/>
+      <point x="414" y="1052"/>
+      <point x="256" y="964"/>
+      <point x="130" y="938" type="curve"/>
+      <point x="168" y="744" type="line"/>
+      <point x="256" y="756"/>
+      <point x="310" y="762"/>
+      <point x="372" y="782" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 24 values pushed */
+12 5 4 3 1 0 1 74 0 0 0 20 75 0 1 1 18 1 76 17 24 2 7 22 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

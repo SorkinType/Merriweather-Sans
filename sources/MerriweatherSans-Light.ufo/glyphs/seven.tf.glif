@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tf" format="2">
+  <advance width="1240"/>
+  <outline>
+    <contour>
+      <point x="406" y="0" type="curve"/>
+      <point x="590" y="-2" type="line"/>
+      <point x="1124" y="1442" type="line"/>
+      <point x="1088" y="1488" type="line"/>
+      <point x="154" y="1488" type="line"/>
+      <point x="152" y="1354" type="line"/>
+      <point x="944" y="1354" type="line"/>
+      <point x="822" y="1032"/>
+      <point x="560" y="328"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>keepStroke</key>
+        <integer>90</integer>
+        <key>monoWidth</key>
+        <integer>620</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

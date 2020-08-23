@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.sc" format="2">
+  <advance width="648"/>
+  <note>
+I
+</note>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="416" y="0" name="ogonek"/>
+  <anchor x="426" y="1300" name="top"/>
+  <anchor x="116" y="1298" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="606" y="1294" type="line"/>
+      <point x="256" y="1294" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>2</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 22 values pushed */
+2 1 1 1 17 75 0 0 0 18 0 76 0 0 0 3 0 3 17 3 7 21 
+CALL[ ]	/* CallFunction */</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

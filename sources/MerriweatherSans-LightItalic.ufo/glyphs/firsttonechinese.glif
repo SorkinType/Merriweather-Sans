@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
+  <unicode hex="02C9"/>
+  <outline>
+    <component base="macroncomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>macroncomb</string>
+    </dict>
+  </lib>
+</glyph>

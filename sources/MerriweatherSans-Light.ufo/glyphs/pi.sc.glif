@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi.sc" format="2">
+  <advance width="1590"/>
+  <outline>
+    <contour>
+      <point x="498" y="0" type="line"/>
+      <point x="498" y="1180" type="line"/>
+      <point x="488" y="1168" type="line"/>
+      <point x="1104" y="1168" type="line"/>
+      <point x="1094" y="1180" type="line"/>
+      <point x="1094" y="0" type="line"/>
+      <point x="1260" y="0" type="line"/>
+      <point x="1260" y="1180" type="line"/>
+      <point x="1250" y="1170" type="line"/>
+      <point x="1464" y="1170" type="line"/>
+      <point x="1464" y="1292" type="line"/>
+      <point x="126" y="1292" type="line"/>
+      <point x="126" y="1170" type="line"/>
+      <point x="340" y="1170" type="line"/>
+      <point x="332" y="1184" type="line"/>
+      <point x="332" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>product</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>product</string>
+    </dict>
+  </lib>
+</glyph>

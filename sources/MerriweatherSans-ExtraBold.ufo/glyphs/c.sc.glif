@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c.sc" format="2">
+  <advance width="1264"/>
+  <anchor x="614" y="0" name="bottom"/>
+  <anchor x="742" y="-144" name="btm"/>
+  <anchor x="778" y="1792" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="646" type="curve" smooth="yes"/>
+      <point x="80" y="242"/>
+      <point x="342" y="-14"/>
+      <point x="786" y="-14" type="curve" smooth="yes"/>
+      <point x="946" y="-14"/>
+      <point x="1062" y="26"/>
+      <point x="1134" y="54" type="curve"/>
+      <point x="1134" y="360" type="line"/>
+      <point x="1088" y="326"/>
+      <point x="948" y="276"/>
+      <point x="830" y="276" type="curve" smooth="yes"/>
+      <point x="602" y="276"/>
+      <point x="468" y="430"/>
+      <point x="468" y="666" type="curve" smooth="yes"/>
+      <point x="468" y="896"/>
+      <point x="638" y="1012"/>
+      <point x="812" y="1012" type="curve" smooth="yes"/>
+      <point x="982" y="1012"/>
+      <point x="1068" y="958"/>
+      <point x="1106" y="932" type="curve"/>
+      <point x="1154" y="1254" type="line"/>
+      <point x="1060" y="1272"/>
+      <point x="974" y="1306"/>
+      <point x="782" y="1306" type="curve" smooth="yes"/>
+      <point x="404" y="1306"/>
+      <point x="80" y="1088"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

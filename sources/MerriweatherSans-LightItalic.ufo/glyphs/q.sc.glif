@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q.sc" format="2">
+  <advance width="1263"/>
+  <anchor x="565" y="0" name="bottom"/>
+  <anchor x="653" y="650" name="center"/>
+  <anchor x="735" y="18" name="ogonek"/>
+  <anchor x="737" y="1300" name="top"/>
+  <anchor x="129" y="1300" name="topleft"/>
+  <anchor x="1345" y="1300" name="topright"/>
+  <outline>
+    <contour>
+      <point x="827" y="-306" type="curve" smooth="yes"/>
+      <point x="895" y="-306"/>
+      <point x="1027" y="-286"/>
+      <point x="1073" y="-256" type="curve"/>
+      <point x="1071" y="-140" type="line"/>
+      <point x="1019" y="-158"/>
+      <point x="933" y="-166"/>
+      <point x="873" y="-166" type="curve" smooth="yes"/>
+      <point x="707" y="-166"/>
+      <point x="639" y="-134"/>
+      <point x="639" y="-16" type="curve" smooth="yes"/>
+      <point x="639" y="-8"/>
+      <point x="639" y="16"/>
+      <point x="639" y="20" type="curve"/>
+      <point x="533" y="20" type="line"/>
+      <point x="531" y="4"/>
+      <point x="529" y="-26"/>
+      <point x="529" y="-46" type="curve" smooth="yes"/>
+      <point x="529" y="-212"/>
+      <point x="643" y="-306"/>
+    </contour>
+    <contour>
+      <point x="555" y="-14" type="curve" smooth="yes"/>
+      <point x="943" y="-14"/>
+      <point x="1199" y="322"/>
+      <point x="1199" y="744" type="curve" smooth="yes"/>
+      <point x="1199" y="1054"/>
+      <point x="1047" y="1314"/>
+      <point x="733" y="1314" type="curve" smooth="yes"/>
+      <point x="353" y="1314"/>
+      <point x="87" y="974"/>
+      <point x="87" y="556" type="curve" smooth="yes"/>
+      <point x="87" y="234"/>
+      <point x="253" y="-14"/>
+    </contour>
+    <contour>
+      <point x="577" y="100" type="curve" smooth="yes"/>
+      <point x="359" y="100"/>
+      <point x="241" y="262"/>
+      <point x="241" y="568" type="curve" smooth="yes"/>
+      <point x="241" y="870"/>
+      <point x="417" y="1194"/>
+      <point x="711" y="1194" type="curve" smooth="yes"/>
+      <point x="933" y="1194"/>
+      <point x="1043" y="1040"/>
+      <point x="1043" y="730" type="curve" smooth="yes"/>
+      <point x="1043" y="422"/>
+      <point x="877" y="100"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>1</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 51 values pushed */
+31 1 2 4 5 1 0 2 6 1 1 0 3 74 0 0 0 1 0 1 95 0 5 5 3 91 0 3 3 25 75 0 4 4 2 91 0 2 2 26 2 76 37 41 38 21 37 33 6 7 26 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o.sc</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

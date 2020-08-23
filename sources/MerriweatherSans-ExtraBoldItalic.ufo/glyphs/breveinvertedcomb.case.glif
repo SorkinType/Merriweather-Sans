@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.case" format="2">
+  <note>
+breve
+</note>
+  <anchor x="140" y="1494" name="_top"/>
+  <anchor x="202" y="1952" name="top"/>
+  <outline>
+    <contour>
+      <point x="188" y="2030" type="curve" smooth="yes"/>
+      <point x="-32" y="2030"/>
+      <point x="-168" y="1898"/>
+      <point x="-168" y="1658" type="curve"/>
+      <point x="12" y="1658" type="line"/>
+      <point x="28" y="1754"/>
+      <point x="68" y="1818"/>
+      <point x="172" y="1818" type="curve" smooth="yes"/>
+      <point x="296" y="1818"/>
+      <point x="324" y="1778"/>
+      <point x="310" y="1658" type="curve"/>
+      <point x="494" y="1658" type="line"/>
+      <point x="540" y="1886"/>
+      <point x="432" y="2030"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 37 values pushed */
+22 1 0 1 1 74 3 1 1 72 0 1 0 1 114 0 0 2 2 0 87 0 0 0 2 91 0 2 0 2 79 37 18 40 3 7 23 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */</string>
+    </dict>
+  </lib>
+</glyph>

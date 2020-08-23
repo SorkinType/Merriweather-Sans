@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x.sc" format="2">
+  <advance width="1182"/>
+  <note>
+X
+</note>
+  <anchor x="518" y="0" name="bottom"/>
+  <anchor x="690" y="1298" name="top"/>
+  <outline>
+    <contour>
+      <point x="-96" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="580" y="424" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="1148" y="0" type="line"/>
+      <point x="814" y="612" type="line"/>
+      <point x="1316" y="1292" type="line"/>
+      <point x="936" y="1292" type="line"/>
+      <point x="652" y="904" type="line"/>
+      <point x="486" y="1292" type="line"/>
+      <point x="112" y="1292" type="line"/>
+      <point x="424" y="684" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>2</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 29 values pushed */
+11 8 5 2 4 2 0 1 74 1 1 0 0 17 75 3 1 2 2 18 2 76 18 18 18 16 4 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

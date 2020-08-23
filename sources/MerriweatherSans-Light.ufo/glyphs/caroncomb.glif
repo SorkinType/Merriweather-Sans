@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="0" y="1660" name="_top"/>
+  <anchor x="2" y="2064" name="top"/>
+  <outline>
+    <contour>
+      <point x="-364" y="1666" type="line"/>
+      <point x="-74" y="1326" type="line"/>
+      <point x="72" y="1326" type="line"/>
+      <point x="356" y="1664" type="line"/>
+      <point x="256" y="1708" type="line"/>
+      <point x="0" y="1450" type="line"/>
+      <point x="-268" y="1708" type="line"/>
+    </contour>
+  </outline>
+</glyph>

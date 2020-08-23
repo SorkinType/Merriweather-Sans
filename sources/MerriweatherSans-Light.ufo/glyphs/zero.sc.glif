@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.sc" format="2">
+  <advance width="1304"/>
+  <outline>
+    <contour>
+      <point x="646" y="-12" type="curve" smooth="yes"/>
+      <point x="942" y="-12"/>
+      <point x="1144" y="260"/>
+      <point x="1148" y="650" type="curve" smooth="yes"/>
+      <point x="1152" y="1014"/>
+      <point x="1036" y="1308"/>
+      <point x="668" y="1308" type="curve" smooth="yes"/>
+      <point x="384" y="1308"/>
+      <point x="162" y="1054"/>
+      <point x="156" y="658" type="curve" smooth="yes"/>
+      <point x="150" y="308"/>
+      <point x="286" y="-12"/>
+    </contour>
+    <contour>
+      <point x="652" y="110" type="curve" smooth="yes"/>
+      <point x="398" y="116"/>
+      <point x="294" y="384"/>
+      <point x="296" y="664" type="curve" smooth="yes"/>
+      <point x="298" y="984"/>
+      <point x="438" y="1184"/>
+      <point x="660" y="1184" type="curve" smooth="yes"/>
+      <point x="914" y="1184"/>
+      <point x="1012" y="932"/>
+      <point x="1010" y="644" type="curve" smooth="yes"/>
+      <point x="1008" y="312"/>
+      <point x="874" y="106"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>86</integer>
+        <key>weight</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

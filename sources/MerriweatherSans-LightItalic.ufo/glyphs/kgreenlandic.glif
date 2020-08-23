@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="1000"/>
+  <unicode hex="0138"/>
+  <note>
+kgreenlandic
+</note>
+  <outline>
+    <contour>
+      <point x="776" y="0" type="line"/>
+      <point x="944" y="0" type="line"/>
+      <point x="534" y="588" type="line"/>
+      <point x="742" y="694"/>
+      <point x="968" y="900"/>
+      <point x="984" y="1124" type="curve"/>
+      <point x="844" y="1124" type="line"/>
+      <point x="796" y="910"/>
+      <point x="596" y="742"/>
+      <point x="366" y="610" type="curve"/>
+    </contour>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="376" y="1124" type="line"/>
+      <point x="232" y="1124" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 35 values pushed */
+10 7 2 0 1 1 74 3 4 2 1 1 20 75 2 1 0 0 18 0 76 0 0 17 16 9 8 0 3 0 3 17 5 7 21 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

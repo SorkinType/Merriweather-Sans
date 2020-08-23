@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik" format="2">
+  <advance width="1225"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <contour>
+      <point x="187" y="628" type="line"/>
+      <point x="1049" y="908" type="line"/>
+      <point x="1053" y="1086" type="line"/>
+      <point x="191" y="804" type="line"/>
+    </contour>
+    <contour>
+      <point x="179" y="214" type="line"/>
+      <point x="1041" y="494" type="line"/>
+      <point x="1045" y="672" type="line"/>
+      <point x="183" y="392" type="line"/>
+    </contour>
+    <component base="T" xOffset="75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>euro</string>
+    </dict>
+  </lib>
+</glyph>

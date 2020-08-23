@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="1252"/>
+  <unicode hex="0075"/>
+  <note>
+u
+</note>
+  <anchor x="548" y="0" name="bottom"/>
+  <anchor x="1032" y="0" name="ogonek"/>
+  <anchor x="716" y="1114" name="top"/>
+  <anchor x="1286" y="1114" name="topright"/>
+  <outline>
+    <contour>
+      <point x="382" y="-20" type="curve" smooth="yes"/>
+      <point x="526" y="-20"/>
+      <point x="654" y="72"/>
+      <point x="728" y="190" type="curve"/>
+      <point x="722" y="0" type="line"/>
+      <point x="1032" y="0" type="line"/>
+      <point x="1184" y="1114" type="line"/>
+      <point x="836" y="1114" type="line"/>
+      <point x="738" y="408" type="line"/>
+      <point x="680" y="306"/>
+      <point x="600" y="228"/>
+      <point x="534" y="228" type="curve" smooth="yes"/>
+      <point x="496" y="228"/>
+      <point x="466" y="262"/>
+      <point x="466" y="324" type="curve" smooth="yes"/>
+      <point x="466" y="360"/>
+      <point x="474" y="444"/>
+      <point x="492" y="576" type="curve" smooth="yes"/>
+      <point x="516" y="756"/>
+      <point x="538" y="934"/>
+      <point x="562" y="1114" type="curve"/>
+      <point x="216" y="1114" type="line"/>
+      <point x="192" y="936"/>
+      <point x="168" y="758"/>
+      <point x="144" y="580" type="curve" smooth="yes"/>
+      <point x="120" y="422"/>
+      <point x="108" y="308"/>
+      <point x="108" y="236" type="curve" smooth="yes"/>
+      <point x="108" y="58"/>
+      <point x="222" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 6 values pushed */
+3 1 0 3 1 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+26 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 22 values pushed */
+0 3 2 0 2 3 0 112 5 4 2 2 2 20 75 1 1 0 0 18 0 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 26 values pushed */
+0 3 2 0 2 3 0 112 5 4 2 2 2 20 75 0 0 0 18 75 0 1 1 26 1 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 13 values pushed */
+0 0 0 23 0 23 37 21 35 17 6 7 24 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="1338"/>
+  <unicode hex="00AC"/>
+  <note>
+logicalnot
+</note>
+  <outline>
+    <contour>
+      <point x="848" y="314" type="line"/>
+      <point x="1100" y="314" type="line"/>
+      <point x="1160" y="834" type="line"/>
+      <point x="222" y="834" type="line"/>
+      <point x="198" y="612" type="line"/>
+      <point x="884" y="612" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+8 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 1 1 0 103 3 1 2 1 1 2 85 3 1 2 2 1 89 0 1 2 1 77 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 23 values pushed */
+0 0 1 0 115 3 1 2 1 1 2 85 3 1 2 2 1 89 0 1 2 1 77 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 11 values pushed */
+0 0 0 5 0 5 17 17 4 7 22 
+CALL[ ]	/* CallFunction */</string>
+    </dict>
+  </lib>
+</glyph>

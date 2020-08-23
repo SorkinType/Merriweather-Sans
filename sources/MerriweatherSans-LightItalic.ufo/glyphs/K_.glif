@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="1216"/>
+  <unicode hex="004B"/>
+  <anchor x="594" y="0" name="bottom"/>
+  <anchor x="732" y="1494" name="top"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="322" y="492" type="line"/>
+      <point x="550" y="738" type="line"/>
+      <point x="728" y="414" type="line" smooth="yes"/>
+      <point x="812" y="262"/>
+      <point x="946" y="16"/>
+      <point x="958" y="0" type="curve"/>
+      <point x="1136" y="0" type="line"/>
+      <point x="1088" y="66"/>
+      <point x="1048" y="134"/>
+      <point x="882" y="428" type="curve" smooth="yes"/>
+      <point x="766" y="632"/>
+      <point x="694" y="754"/>
+      <point x="646" y="834" type="curve"/>
+      <point x="1252" y="1494" type="line"/>
+      <point x="1080" y="1494" type="line"/>
+      <point x="348" y="692" type="line"/>
+      <point x="448" y="1494" type="line"/>
+      <point x="306" y="1494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 29 values pushed */
+24 21 15 1 4 0 2 1 74 3 1 2 2 17 75 1 1 0 0 18 0 76 18 17 25 23 4 7 24 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

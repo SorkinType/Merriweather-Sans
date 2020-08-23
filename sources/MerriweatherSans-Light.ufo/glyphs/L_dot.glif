@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="1304"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="period" xOffset="708" yOffset="682"/>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

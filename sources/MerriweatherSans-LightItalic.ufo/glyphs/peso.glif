@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="1449"/>
+  <unicode hex="20B1"/>
+  <note>
+uni20B1
+</note>
+  <outline>
+    <contour>
+      <point x="259" y="0" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="473" y="528" type="line"/>
+      <point x="559" y="520"/>
+      <point x="633" y="516"/>
+      <point x="695" y="516" type="curve" smooth="yes"/>
+      <point x="943" y="516"/>
+      <point x="1139" y="628"/>
+      <point x="1233" y="826" type="curve"/>
+      <point x="1439" y="826" type="line"/>
+      <point x="1451" y="906" type="line"/>
+      <point x="1265" y="906" type="line"/>
+      <point x="1283" y="968"/>
+      <point x="1291" y="1036"/>
+      <point x="1293" y="1112" type="curve"/>
+      <point x="1467" y="1112" type="line"/>
+      <point x="1479" y="1192" type="line"/>
+      <point x="1291" y="1192" type="line"/>
+      <point x="1261" y="1406"/>
+      <point x="1111" y="1512"/>
+      <point x="847" y="1512" type="curve" smooth="yes"/>
+      <point x="779" y="1512"/>
+      <point x="607" y="1496"/>
+      <point x="533" y="1496" type="curve" smooth="yes"/>
+      <point x="447" y="1496" type="line"/>
+      <point x="409" y="1192" type="line"/>
+      <point x="207" y="1192" type="line"/>
+      <point x="197" y="1112" type="line"/>
+      <point x="399" y="1112" type="line"/>
+      <point x="373" y="906" type="line"/>
+      <point x="179" y="906" type="line"/>
+      <point x="167" y="826" type="line"/>
+      <point x="363" y="826" type="line"/>
+    </contour>
+    <contour>
+      <point x="699" y="630" type="curve" smooth="yes"/>
+      <point x="637" y="630"/>
+      <point x="527" y="640"/>
+      <point x="487" y="648" type="curve"/>
+      <point x="509" y="826" type="line"/>
+      <point x="1079" y="826" type="line"/>
+      <point x="1007" y="698"/>
+      <point x="881" y="632"/>
+    </contour>
+    <contour>
+      <point x="519" y="906" type="line"/>
+      <point x="545" y="1112" type="line"/>
+      <point x="1145" y="1112" type="line"/>
+      <point x="1143" y="1034"/>
+      <point x="1133" y="966"/>
+      <point x="1113" y="906" type="curve"/>
+    </contour>
+    <contour>
+      <point x="555" y="1192" type="line"/>
+      <point x="579" y="1380" type="line"/>
+      <point x="693" y="1394"/>
+      <point x="775" y="1400"/>
+      <point x="825" y="1400" type="curve" smooth="yes"/>
+      <point x="1009" y="1400"/>
+      <point x="1113" y="1330"/>
+      <point x="1139" y="1192" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 6 values pushed */
+48 1 16 1 1 74 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+29 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 51 values pushed */
+12 10 2 7 14 11 2 6 0 7 6 98 15 5 2 0 19 17 4 3 1 16 0 1 97 0 16 0 3 2 16 3 99 18 1 13 13 8 91 9 1 8 8 25 75 0 2 2 18 2 76 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 55 values pushed */
+12 10 2 7 14 11 2 6 0 7 6 98 15 5 2 0 19 17 4 3 1 16 0 1 97 0 16 0 3 2 16 3 99 0 9 9 17 75 18 1 13 13 8 91 0 8 8 25 75 0 2 2 18 2 76 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 38 values pushed */
+43 43 32 32 43 49 43 49 46 44 42 41 39 38 32 37 32 36 34 33 31 30 29 28 27 25 34 17 18 17 18 34 17 17 16 20 7 29 
+CALL[ ]	/* CallFunction */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>euro</string>
+    </dict>
+  </lib>
+</glyph>

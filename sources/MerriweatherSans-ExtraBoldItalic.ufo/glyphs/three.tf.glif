@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.tf" format="2">
+  <advance width="1236"/>
+  <outline>
+    <contour>
+      <point x="364" y="-14" type="curve" smooth="yes"/>
+      <point x="818" y="-14"/>
+      <point x="1110" y="170"/>
+      <point x="1110" y="468" type="curve" smooth="yes"/>
+      <point x="1110" y="632"/>
+      <point x="948" y="742"/>
+      <point x="770" y="742" type="curve"/>
+      <point x="1004" y="824"/>
+      <point x="1114" y="1002"/>
+      <point x="1114" y="1198" type="curve" smooth="yes"/>
+      <point x="1114" y="1394"/>
+      <point x="922" y="1508"/>
+      <point x="688" y="1508" type="curve" smooth="yes"/>
+      <point x="490" y="1508"/>
+      <point x="266" y="1452"/>
+      <point x="136" y="1324" type="curve"/>
+      <point x="280" y="1138" type="line"/>
+      <point x="324" y="1178"/>
+      <point x="440" y="1258"/>
+      <point x="598" y="1258" type="curve" smooth="yes"/>
+      <point x="726" y="1258"/>
+      <point x="776" y="1216"/>
+      <point x="776" y="1116" type="curve" smooth="yes"/>
+      <point x="776" y="968"/>
+      <point x="536" y="866"/>
+      <point x="346" y="840" type="curve"/>
+      <point x="330" y="574" type="line"/>
+      <point x="516" y="636" type="line"/>
+      <point x="688" y="636"/>
+      <point x="758" y="544"/>
+      <point x="758" y="478" type="curve" smooth="yes"/>
+      <point x="758" y="326"/>
+      <point x="650" y="230"/>
+      <point x="298" y="230" type="curve" smooth="yes"/>
+      <point x="246" y="230"/>
+      <point x="170" y="234"/>
+      <point x="110" y="240" type="curve"/>
+      <point x="80" y="-2" type="line"/>
+      <point x="154" y="-8"/>
+      <point x="238" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>keepStroke</key>
+        <integer>70</integer>
+        <key>monoWidth</key>
+        <integer>618</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

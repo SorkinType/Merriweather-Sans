@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.sc" format="2">
+  <advance width="694"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="464" y="1280" name="top"/>
+  <outline>
+    <contour>
+      <point x="-92" y="-342" type="line"/>
+      <point x="268" y="-318"/>
+      <point x="438" y="-148"/>
+      <point x="490" y="200" type="curve" smooth="yes"/>
+      <point x="650" y="1292" type="line"/>
+      <point x="302" y="1292" type="line"/>
+      <point x="246" y="910"/>
+      <point x="186" y="502"/>
+      <point x="138" y="180" type="curve" smooth="yes"/>
+      <point x="102" y="-60"/>
+      <point x="-32" y="-182"/>
+      <point x="-146" y="-208" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>2</integer>
+        <key>height</key>
+        <integer>87</integer>
+        <key>weight</key>
+        <integer>2</integer>
+        <key>width</key>
+        <integer>96</integer>
+      </dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 22 values pushed */
+0 0 1 0 115 2 1 1 1 17 1 76 0 0 0 19 0 19 24 3 7 21 
+CALL[ ]	/* CallFunction */</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

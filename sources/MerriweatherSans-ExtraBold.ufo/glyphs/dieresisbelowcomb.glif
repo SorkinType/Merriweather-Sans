@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb" format="2">
+  <unicode hex="0324"/>
+  <anchor x="2" y="0" name="_bottom"/>
+  <anchor x="0" y="-166" name="_btm"/>
+  <anchor x="0" y="1662" name="_top"/>
+  <anchor x="2" y="-472" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-258" y="-472" type="curve" smooth="yes"/>
+      <point x="-146" y="-472"/>
+      <point x="-60" y="-380"/>
+      <point x="-60" y="-270" type="curve" smooth="yes"/>
+      <point x="-60" y="-162"/>
+      <point x="-128" y="-86"/>
+      <point x="-242" y="-86" type="curve" smooth="yes"/>
+      <point x="-352" y="-86"/>
+      <point x="-444" y="-178"/>
+      <point x="-444" y="-286" type="curve" smooth="yes"/>
+      <point x="-444" y="-394"/>
+      <point x="-370" y="-472"/>
+    </contour>
+    <contour>
+      <point x="246" y="-472" type="curve" smooth="yes"/>
+      <point x="360" y="-472"/>
+      <point x="446" y="-380"/>
+      <point x="446" y="-270" type="curve" smooth="yes"/>
+      <point x="446" y="-162"/>
+      <point x="376" y="-86"/>
+      <point x="264" y="-86" type="curve" smooth="yes"/>
+      <point x="152" y="-86"/>
+      <point x="62" y="-178"/>
+      <point x="62" y="-286" type="curve" smooth="yes"/>
+      <point x="62" y="-394"/>
+      <point x="136" y="-472"/>
+    </contour>
+  </outline>
+</glyph>

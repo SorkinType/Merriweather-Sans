@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourthtonechinese" format="2">
+  <unicode hex="02CB"/>
+  <outline>
+    <contour>
+      <point x="-34" y="1284" type="line"/>
+      <point x="52" y="1340"/>
+      <point x="262" y="1540"/>
+      <point x="330" y="1638" type="curve"/>
+      <point x="212" y="1740" type="line"/>
+      <point x="112" y="1600"/>
+      <point x="0" y="1478"/>
+      <point x="-118" y="1350" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

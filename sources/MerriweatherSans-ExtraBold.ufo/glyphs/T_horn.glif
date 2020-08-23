@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1352"/>
+  <unicode hex="00DE"/>
+  <anchor x="672" y="0" name="bottom"/>
+  <anchor x="672" y="1486" name="top"/>
+  <outline>
+    <contour>
+      <point x="748" y="230" type="curve" smooth="yes"/>
+      <point x="1102" y="230"/>
+      <point x="1294" y="442"/>
+      <point x="1294" y="786" type="curve" smooth="yes"/>
+      <point x="1294" y="1102"/>
+      <point x="1098" y="1268"/>
+      <point x="772" y="1268" type="curve" smooth="yes"/>
+      <point x="678" y="1268"/>
+      <point x="576" y="1258"/>
+      <point x="498" y="1254" type="curve"/>
+      <point x="520" y="980" type="line"/>
+      <point x="566" y="992"/>
+      <point x="612" y="998"/>
+      <point x="666" y="998" type="curve" smooth="yes"/>
+      <point x="842" y="1002"/>
+      <point x="928" y="914"/>
+      <point x="928" y="772" type="curve" smooth="yes"/>
+      <point x="928" y="550"/>
+      <point x="810" y="492"/>
+      <point x="666" y="492" type="curve" smooth="yes"/>
+      <point x="622" y="492"/>
+      <point x="574" y="492"/>
+      <point x="522" y="502" type="curve"/>
+      <point x="522" y="240" type="line"/>
+      <point x="560" y="236"/>
+      <point x="642" y="230"/>
+    </contour>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="534" y="1486" type="line"/>
+      <point x="160" y="1486" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

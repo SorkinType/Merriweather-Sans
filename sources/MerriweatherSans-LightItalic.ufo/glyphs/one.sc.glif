@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sc" format="2">
+  <advance width="862"/>
+  <outline>
+    <contour>
+      <point x="302" y="0" type="line"/>
+      <point x="452" y="0" type="line"/>
+      <point x="614" y="1294" type="line"/>
+      <point x="546" y="1310" type="line"/>
+      <point x="546" y="1310" type="line"/>
+      <point x="452" y="1250"/>
+      <point x="292" y="1170"/>
+      <point x="160" y="1142" type="curve"/>
+      <point x="180" y="1048" type="line"/>
+      <point x="286" y="1066"/>
+      <point x="366" y="1088"/>
+      <point x="442" y="1114" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>85</integer>
+        <key>width</key>
+        <integer>95</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
